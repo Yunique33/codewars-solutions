@@ -18,3 +18,4 @@
 * [Adults only (SQL for Beginners #1)](SQL/8kyu/adults_only_sql_for_beginners_№1.md)
 * [On the Canadian Border (SQL for Beginners #2)](SQL/8kyu/on_the_canadian_border_sql_for_beginners_№2.md)
 * [Register for the Party (SQL for Beginners #3)](SQL/8kyu/register_for_the_party_sql_for_beginners_№3.md)
+* [Collect Tuition (SQL for Beginners #4)](SQL/8kyu/collect_tuition_sql_for_beginners_№4.md)
