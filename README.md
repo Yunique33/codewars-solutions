@@ -11,6 +11,18 @@
 * [Return Negative](Ruby/8kyu/retrun_negative.md)
 * [Reversed Strings](Ruby/8kyu/reversed_strings.md)
 * [Convert boolean values to strings 'Yes' or 'No'.](Ruby/8kyu/convert_boolean_values_to_strings_yes_or_no.md)
+* [Convert a Number to a String!](Ruby/8kyu/convert_a_number_to_a_string.md)
+* [Opposite number](Ruby/8kyu/opposite_number.md)
+* [Remove First and Last Character](Ruby/8kyu/remove_first_and_last_character.md)
+* [String repeat](Ruby/8kyu/string_repeat.md)
+* [Square(n) Sum](Ruby/8kyu/square_n_sum.md)
+* [Grasshopper - Summation](Ruby/8kyu/grasshopper_summation.md)
+* [Remove String Spaces](Ruby/8kyu/remove_string_spaces.md)
+* [Find the smallest integer in the array](Ruby/8kyu/find_the_smallest_integer_in_the_array.md)
+* [Counting sheep...](Ruby/8kyu/counting_sheep.md)
+* [Keep Hydrated!](Ruby/8kyu/keep_hydrated.md)
+
+
 
 ## SQL
 ***
