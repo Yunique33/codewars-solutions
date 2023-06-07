@@ -21,8 +21,8 @@
 * [Find the smallest integer in the array](Ruby/8kyu/find_the_smallest_integer_in_the_array.md)
 * [Counting sheep...](Ruby/8kyu/counting_sheep.md)
 * [Keep Hydrated!](Ruby/8kyu/keep_hydrated.md)
-
-
+* [Basic Mathematical Operations](Ruby/8kyu/basic_mathematical_operations.md)
+* 
 
 ## SQL
 ***
@@ -31,3 +31,4 @@
 * [On the Canadian Border (SQL for Beginners #2)](SQL/8kyu/on_the_canadian_border_sql_for_beginners_№2.md)
 * [Register for the Party (SQL for Beginners #3)](SQL/8kyu/register_for_the_party_sql_for_beginners_№3.md)
 * [Collect Tuition (SQL for Beginners #4)](SQL/8kyu/collect_tuition_sql_for_beginners_№4.md)
+* [Reversed Strings](SQL/8kyu/reversed_strings.md)

@@ -16,7 +16,7 @@ travelers table schema
 NOTE: The United States is written as 'USA' in the table.
 
 # My Solution
-```sql
+```SQL
 SELECT name, country FROM travelers
 WHERE country NOT IN ("Canada", "Mexico", "USA");
 ```

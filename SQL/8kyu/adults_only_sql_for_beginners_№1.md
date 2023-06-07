@@ -9,7 +9,7 @@ users table schema
 * age
 
 # My Solution
-```sql
+```SQL
 SELECT name, age FROM users
 WHERE age >= 18;
 ```

@@ -15,7 +15,7 @@ NOTES:
 * You can't attend if the attending column returns anything but true
 
 # My Solution
-```sql
+```SQL
 INSERT INTO participants (name, age, attending)
 VALUES ("Participant", 33, 'TRUE');
 SELECT * FROM participants;

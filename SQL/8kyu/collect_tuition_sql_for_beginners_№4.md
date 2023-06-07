@@ -19,7 +19,7 @@ SELECT * FROM students
 WHERE tuition_received = 'FALSE';
 ```
 # Better/Alternative solution from Codewars
-```sql
+```SQL
 select *
 from students
 where not tuition_received;
