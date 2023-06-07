@@ -22,8 +22,8 @@
 * [Counting sheep...](Ruby/8kyu/counting_sheep.md)
 * [Keep Hydrated!](Ruby/8kyu/keep_hydrated.md)
 * [Basic Mathematical Operations](Ruby/8kyu/basic_mathematical_operations.md)
-* 
-
+* [Century From Year](Ruby/8kyu/century_from_year.md)
+* [Abbreviate a Two Word Name](Ruby/8kyu/abbreviate_a_two_word_name.md)
 ## SQL
 ***
 ### 8 KYU
@@ -32,3 +32,4 @@
 * [Register for the Party (SQL for Beginners #3)](SQL/8kyu/register_for_the_party_sql_for_beginners_№3.md)
 * [Collect Tuition (SQL for Beginners #4)](SQL/8kyu/collect_tuition_sql_for_beginners_№4.md)
 * [Reversed Strings](SQL/8kyu/reversed_strings.md)
+* [Easy SQL - Ordering](SQL/8kyu/easy_sql_ordering.md)
