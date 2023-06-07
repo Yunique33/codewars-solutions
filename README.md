@@ -3,7 +3,7 @@
 [![Codewars Badge](https://www.codewars.com/users/Yunique/badges/large)](https://www.codewars.com/users/Yunique)
 
 ## RUBY
-***
+
 ### 8 KYU
 * [Multiply](Ruby/8kyu/multiply.md)
 * [Even or Odd](Ruby/8kyu/even_or_odd.md)
@@ -25,7 +25,7 @@
 * [Century From Year](Ruby/8kyu/century_from_year.md)
 * [Abbreviate a Two Word Name](Ruby/8kyu/abbreviate_a_two_word_name.md)
 ## SQL
-***
+
 ### 8 KYU
 * [Adults only (SQL for Beginners #1)](SQL/8kyu/adults_only_sql_for_beginners_№1.md)
 * [On the Canadian Border (SQL for Beginners #2)](SQL/8kyu/on_the_canadian_border_sql_for_beginners_№2.md)
