@@ -26,6 +26,7 @@
 * [Abbreviate a Two Word Name](Ruby/8kyu/abbreviate_a_two_word_name.md)
 * [Convert a String to a Number!](Ruby/8kyu/convert_a_string_to_a_number.md)
 * [Convert number to reversed array of digits](Ruby/8kyu/convert_number_to_reversed_array_of_digits.md)
+* [Is n divisible by x and y?](Ruby/8kyu/is_n_divisible_by_x_and_y.md)
 ## SQL
 
 ### 8 KYU
