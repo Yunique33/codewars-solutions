@@ -24,6 +24,8 @@
 * [Basic Mathematical Operations](Ruby/8kyu/basic_mathematical_operations.md)
 * [Century From Year](Ruby/8kyu/century_from_year.md)
 * [Abbreviate a Two Word Name](Ruby/8kyu/abbreviate_a_two_word_name.md)
+* [Convert a String to a Number!](Ruby/8kyu/convert_a_string_to_a_number.md)
+* [Convert number to reversed array of digits](Ruby/8kyu/convert_number_to_reversed_array_of_digits.md)
 ## SQL
 
 ### 8 KYU
