@@ -36,6 +36,10 @@
 * [Beginner Series #1 School Paperwork](Ruby/8kyu/beginner_series_№_1_school_paperwork.md)
 * [Beginner Series #2 Clock](Ruby/8kyu/beginner_series_№_2_clock.md)
 * [Are You Playing Banjo?](Ruby/8kyu/are_you_playing_bahjo.md)
+* [Invert values](Ruby/8kyu/insert_values.md)
+* [Count of positives / sum of negatives](Ruby/8kyu/count_of_positives_sum_of_negatives.md)
+* [How good are you really?](Ruby/8kyu/how_good_are_you_really.md)
+* [Sum Arrays](Ruby/8kyu/sum_arrays.md)
 ## SQL
 
 ### 8 KYU
