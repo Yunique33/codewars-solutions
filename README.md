@@ -27,6 +27,15 @@
 * [Convert a String to a Number!](Ruby/8kyu/convert_a_string_to_a_number.md)
 * [Convert number to reversed array of digits](Ruby/8kyu/convert_number_to_reversed_array_of_digits.md)
 * [Is n divisible by x and y?](Ruby/8kyu/is_n_divisible_by_x_and_y.md)
+* [Returning Strings](Ruby/8kyu/returning_strings.md)
+* [A Needle in the Haystack](Ruby/8kyu/a_needle_in_the_haystack.md)
+* [Beginner - Lost Without a Map](Ruby/8kyu/beginner_lost_without_a_map.md)
+* [Function 1 - hello world](Ruby/8kyu/function_1_hello_world.md)
+* [Opposites Attract](Ruby/8kyu/opposites_attract.md)
+* [Convert a Boolean to a String](Ruby/8kyu/conver_a_boolean_to_a_string.md)
+* [Beginner Series #1 School Paperwork](Ruby/8kyu/beginner_series_№_1_school_paperwork.md)
+* [Beginner Series #2 Clock](Ruby/8kyu/beginner_series_№_2_clock.md)
+* [Are You Playing Banjo?](Ruby/8kyu/are_you_playing_bahjo.md)
 ## SQL
 
 ### 8 KYU
