@@ -1,4 +1,4 @@
-# [How good are you really?](https://www.codewars.com/kata/5601409514fc93442500010b )
+# [Sum Arrays](https://www.codewars.com/kata/53dc54212259ed3d4f00071c)
 
 # Description
 

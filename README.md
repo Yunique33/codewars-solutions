@@ -40,6 +40,10 @@
 * [Count of positives / sum of negatives](Ruby/8kyu/count_of_positives_sum_of_negatives.md)
 * [How good are you really?](Ruby/8kyu/how_good_are_you_really.md)
 * [Sum Arrays](Ruby/8kyu/sum_arrays.md)
+* [You only need one - Beginner](Ruby/8kyu/you_only_need_one_beginner.md)
+* [Simple multiplication](Ruby/8kyu/simple_multiplication.md)
+* [Fake Binary](Ruby/8kyu/fake_binary.md)
+* [Beginner - Reduce but Grow](Ruby/8kyu/beginner_reduce_but_grow.md)
 ## SQL
 
 ### 8 KYU
