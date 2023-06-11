@@ -44,6 +44,7 @@
 * [Simple multiplication](Ruby/8kyu/simple_multiplication.md)
 * [Fake Binary](Ruby/8kyu/fake_binary.md)
 * [Beginner - Reduce but Grow](Ruby/8kyu/beginner_reduce_but_grow.md)
+* [Calculate BMI](Ruby/8kyu/calculate_bmi.md)
 ## SQL
 
 ### 8 KYU
