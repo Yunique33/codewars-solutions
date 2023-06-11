@@ -45,6 +45,18 @@
 * [Fake Binary](Ruby/8kyu/fake_binary.md)
 * [Beginner - Reduce but Grow](Ruby/8kyu/beginner_reduce_but_grow.md)
 * [Calculate BMI](Ruby/8kyu/calculate_bmi.md)
+* [Reversed sequence](Ruby/8kyu/reversed_sequence.md)
+* [Reversed Words](Ruby/8kyu/reversed_words.md)
+* [MakeUpperCase](Ruby/8kyu/make_upper_case.md)
+* [Will you make it?](Ruby/8kyu/will_you_make_it.md)
+* [Is he gonna survive?](Ruby/8kyu/is_he_gonna_survive.md)
+* [DNA to RNA Conversion](Ruby/8kyu/dna_to_rna_conversion.md)
+* [Sentence Smash](Ruby/8kyu/sentence_smash.md)
+* [Find Maximum and Minimum Values of a List](Ruby/8kyu/find_maximum_and_minimum_values_of_a_list.md)
+* [Count by X](Ruby/8kyu/count_by_x.md)
+* [Jenny's secret message](Ruby/8kyu/jennys_secret_message.md)
+* [If you can't sleep, just count sheep!!](Ruby/8kyu/if_you_cant_sleep_just_count_sheep.md)
+* [You Can't Code Under Pressure #1](Ruby/8kyu/you_cant_code_under_pressure_№1.md)
 ## SQL
 
 ### 8 KYU
