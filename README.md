@@ -59,6 +59,7 @@
 * [You Can't Code Under Pressure #1](Ruby/8kyu/you_cant_code_under_pressure_№1.md)
 * [Convert a string to an array](Ruby/8kyu/convert_a_string_to_an_array.md)
 * [Array plus array](Ruby/8kyu/array_plus_array.md)
+* [Rock Paper Scissors!](Ruby/8kyu/rock_paper_scissors.md)
 ## SQL
 
 ### 8 KYU
