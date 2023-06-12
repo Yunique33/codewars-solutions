@@ -28,6 +28,6 @@ SELECT id,
 FROM cycling;
 ```
 # Better/Alternative solution from Codewars
-```ruby
+```sql
 SELECT *, floor(hours / 2) as liters FROM cycling
 ```
