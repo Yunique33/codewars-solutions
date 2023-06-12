@@ -69,3 +69,4 @@
 * [Collect Tuition (SQL for Beginners #4)](SQL/8kyu/collect_tuition_sql_for_beginners_№4.md)
 * [Reversed Strings](SQL/8kyu/reversed_strings.md)
 * [Easy SQL - Ordering](SQL/8kyu/easy_sql_ordering.md)
+* [Keep Hydrated!](SQL/8kyu/keep_hydrated.md)
