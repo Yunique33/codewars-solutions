@@ -57,6 +57,8 @@
 * [Jenny's secret message](Ruby/8kyu/jennys_secret_message.md)
 * [If you can't sleep, just count sheep!!](Ruby/8kyu/if_you_cant_sleep_just_count_sheep.md)
 * [You Can't Code Under Pressure #1](Ruby/8kyu/you_cant_code_under_pressure_№1.md)
+* [Convert a string to an array](Ruby/8kyu/convert_a_string_to_an_array.md)
+* [Array plus array](Ruby/8kyu/array_plus_array.md)
 ## SQL
 
 ### 8 KYU
