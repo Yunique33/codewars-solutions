@@ -60,6 +60,8 @@
 * [Convert a string to an array](Ruby/8kyu/convert_a_string_to_an_array.md)
 * [Array plus array](Ruby/8kyu/array_plus_array.md)
 * [Rock Paper Scissors!](Ruby/8kyu/rock_paper_scissors.md)
+* [Total amount of points](Ruby/8kyu/total_amount_of_points.md)
+
 ## SQL
 
 ### 8 KYU
