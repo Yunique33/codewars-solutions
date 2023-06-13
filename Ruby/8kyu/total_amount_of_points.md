@@ -26,9 +26,9 @@ Notes:
 # My Solution
 ```ruby
 def points(games)
-  games.map do |match|
+  games.sum do |match|
     first = match[0]
-    second = match[-1]
+    second = match[2]
     if first > second
       3
     elsif first < second
@@ -36,7 +36,7 @@ def points(games)
     else
       1
     end
-  end.sum
+  end
 end
 ```
 # Better/Alternative solution from Codewars
