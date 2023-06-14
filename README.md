@@ -62,6 +62,8 @@
 * [Rock Paper Scissors!](Ruby/8kyu/rock_paper_scissors.md)
 * [Total amount of points](Ruby/8kyu/total_amount_of_points.md)
 * [Get the mean of an array](Ruby/8kyu/get_the_mean_of_an_array.md)
+* [Sum without highest and lowest number](Ruby/8kyu/x)
+* [Grasshopper - Grade book](Ruby/8kyu/grasshopper_grade_book.md)
 
 ## SQL
 
