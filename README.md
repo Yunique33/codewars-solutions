@@ -64,6 +64,17 @@
 * [Get the mean of an array](Ruby/8kyu/get_the_mean_of_an_array.md)
 * [Sum without highest and lowest number](Ruby/8kyu/x)
 * [Grasshopper - Grade book](Ruby/8kyu/grasshopper_grade_book.md)
+* [Count the Monkeys!](Ruby/8kyu/count_the_monkeys.md)
+* [Grasshopper - Personalized Message](Ruby/8kyu/grasshopper_personalized_message.md)
+* [Sum Mixed Array](Ruby/8kyu/sum_mixed_array.md)
+* [Do I get a bonus?](Ruby/8kyu/do_i_get_a_bonus.md)
+* [Area or Perimeter](Ruby/8kyu/area_or_perimeter.md)
+* [The Feast of Many Beasts](Ruby/8kyu/the_feast_of_many_beasts.md)
+* [Remove exclamation marks](remove_exclamation_marks.md)
+* [Transportation on vacation](Ruby/8kyu/transportation_on_vacation.md)
+* [Thinkful - Logic Drills: Traffic light](Ruby/8kyu/thinkful_logic_drills_trafic_light.md)
+* [Quarter of the year](Ruby/8kyu/quarter_of_the_year.md)
+* [L1: Set Alarm](Ruby/8kyu/l1_set_alarm.md)
 
 ## SQL
 
