@@ -61,6 +61,7 @@
 * [Array plus array](Ruby/8kyu/array_plus_array.md)
 * [Rock Paper Scissors!](Ruby/8kyu/rock_paper_scissors.md)
 * [Total amount of points](Ruby/8kyu/total_amount_of_points.md)
+* [Get the mean of an array](Ruby/8kyu/get_the_mean_of_an_array.md)
 
 ## SQL
 
