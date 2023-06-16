@@ -29,9 +29,16 @@ Nim: <code>none(int)</code> (See [options](https://nim-lang.org/docs/options.htm
 
 # My Solution
 ```ruby
-
+def first_non_consecutive(arr)
+  el = (arr.first..arr.last).to_a - arr
+  arr[arr.index(el.first+1)] unless el.empty?
+end
 ```
 # Better/Alternative solution from Codewars
 ```ruby
-
+def first_non_consecutive(arr)
+  arr.each_index do |i|
+    return arr[i + 1] if arr[i].next != arr[i + 1]
+  end
+end
 ```
