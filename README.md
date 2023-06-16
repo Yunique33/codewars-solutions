@@ -75,6 +75,10 @@
 * [Thinkful - Logic Drills: Traffic light](Ruby/8kyu/thinkful_logic_drills_trafic_light.md)
 * [Quarter of the year](Ruby/8kyu/quarter_of_the_year.md)
 * [L1: Set Alarm](Ruby/8kyu/l1_set_alarm.md)
+* [Double Char](Ruby/8kyu/double_char.md)
+* [Removing Elements](Ruby/8kyu/removing_elements.md)
+* [Find the first non-consecutive number](Ruby/8kyu/find_the_first_non_consecutive_number.md)
+* [Beginner Series #4 Cockroach](Ruby/8kyu/beginner_series_№_4_cockroach.md)
 
 ## SQL
 
