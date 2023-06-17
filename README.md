@@ -79,6 +79,16 @@
 * [Removing Elements](Ruby/8kyu/removing_elements.md)
 * [Find the first non-consecutive number](Ruby/8kyu/find_the_first_non_consecutive_number.md)
 * [Beginner Series #4 Cockroach](Ruby/8kyu/beginner_series_№_4_cockroach.md)
+* [Third Angle of a Triangle](Ruby/8kyu/third_angle_of_a_triangle.md)
+* [Will there be enough space?](Ruby/8kyu/will_there_be_enough_space.md)
+* [Keep up the hoop](Ruby/8kyu/keep_up_the_hoop.md)
+* [Twice as old](Ruby/8kyu/twice_as_old.md)
+* [Grasshopper - Check for factor](Ruby/8kyu/grasshopper_check_for_factor.md)
+* [Get Planet Name By ID](Ruby/8ky/get_plane_name_by_id.md)
+* [Parse nice int from char problem](Ruby/8kyu/parse_nice_int_from_char_problem.md)
+* [Correct the mistakes of the character recognition software](Ruby/8kyu/correct_the_mistakes_of_the_character_recognition_software.md)
+* [Switch it Up!](Ruby/8kyu/switch_it_up.md)
+* [All Star Code Challenge #18](Ruby/8kyu/all_star_code_challenge_№18.md)
 
 ## SQL
 
