@@ -89,6 +89,12 @@
 * [Correct the mistakes of the character recognition software](Ruby/8kyu/correct_the_mistakes_of_the_character_recognition_software.md)
 * [Switch it Up!](Ruby/8kyu/switch_it_up.md)
 * [All Star Code Challenge #18](Ruby/8kyu/all_star_code_challenge_№18.md)
+* [Cat years, Dog years](Ruby/8kyu/cat_years_dog_years.md)
+* [Count Odd Numbers below n](Ruby/8kyu/count_odd_numbers_below_n.md)
+* [altERnaTIng cAsE <=> ALTerNAtiNG CaSe](Ruby/8kyu/alternating_case_<=>_alternating_case.md)
+* [Volume of a Cuboid](Ruby/8kyu/volume_of_a_cuboid.md)
+* [Find numbers which are divisible by given number](Ruby/8kyu/find_numbers_which_are_divisible_by_given_number.md)
+* [Welcome!](Ruby/8kyu/welcome.md)
 
 ## SQL
 
