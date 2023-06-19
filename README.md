@@ -95,6 +95,16 @@
 * [Volume of a Cuboid](Ruby/8kyu/volume_of_a_cuboid.md)
 * [Find numbers which are divisible by given number](Ruby/8kyu/find_numbers_which_are_divisible_by_given_number.md)
 * [Welcome!](Ruby/8kyu/welcome.md)
+* [Is it a palindrome?](Ruby/8kyu/is_it_a_palindrome.md)
+* [Powers of 2](Ruby/8kyu/powers_of_2.md)
+* [Sum The Strings](Ruby/8kyu/sum_the_strings.md)
+* [Is it even?](Ruby/8kyu/is_it_even.md)
+* [I love you, a little , a lot, passionately ... not at all](Ruby/8kyu/i_love_you_a_little_a_lot_passionately_not_at_all.md)
+* [Difference of Volumes of Cuboids](Ruby/8kyu/difference_of_volumes_of_cuboids.md)
+* [Grasshopper - Messi goals function](Ruby/8kyu/grasshopper_messi_goals_function.md)
+* [Unfinished Loop - Bug Fixing #1](Ruby/8kyu/unfinished_loop_bug_fixing№1.md)
+* [Sort and Star](Ruby/8kyu/sort_and_star.md)
+* [To square(root) or not to square(root)](Ruby/8kyu/to_square_root_or_not_to_square_root.md)
 
 ## SQL
 
