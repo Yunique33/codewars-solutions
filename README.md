@@ -105,6 +105,10 @@
 * [Unfinished Loop - Bug Fixing #1](Ruby/8kyu/unfinished_loop_bug_fixing№1.md)
 * [Sort and Star](Ruby/8kyu/sort_and_star.md)
 * [To square(root) or not to square(root)](Ruby/8kyu/to_square_root_or_not_to_square_root.md)
+* [Expressions Matter](Ruby/8kyu/expressions_matter.md)
+* [My head is at the wrong end!](Ruby/8kyu/my_head_is_at_the_wrong_end.md)
+* [N-th Power](Ruby/8kyu/n-th_power.md)
+* [Well of Ideas - Easy Version](Ruby/8kyu/well_of_ideas_easy_version.md)
 
 ## SQL
 
