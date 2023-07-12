@@ -21,5 +21,7 @@ Good luck! Your team knows they can count on you!
 
 # My Solution
 ```ruby
-
+def format_money(amount)
+  '$%.2f' % amount
+end
 ```
