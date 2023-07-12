@@ -109,6 +109,9 @@
 * [My head is at the wrong end!](Ruby/8kyu/my_head_is_at_the_wrong_end.md)
 * [N-th Power](Ruby/8kyu/n-th_power.md)
 * [Well of Ideas - Easy Version](Ruby/8kyu/well_of_ideas_easy_version.md)
+* [Vowel remover](Ruby/8kyu/vowel_remover.md)
+* [What's the real floor?](Ruby/8kyu/whats_the_real_floor.md)
+* [Basic variable assignment](Ruby/8kyu/basic_variable_assignment.md)
 
 ## SQL
 
