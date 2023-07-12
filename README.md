@@ -102,7 +102,7 @@
 * [I love you, a little , a lot, passionately ... not at all](Ruby/8kyu/i_love_you_a_little_a_lot_passionately_not_at_all.md)
 * [Difference of Volumes of Cuboids](Ruby/8kyu/difference_of_volumes_of_cuboids.md)
 * [Grasshopper - Messi goals function](Ruby/8kyu/grasshopper_messi_goals_function.md)
-* [Unfinished Loop - Bug Fixing #1](Ruby/8kyu/unfinished_loop_bug_fixing№1.md)
+* [Unfinished Loop - Bug Fixing #1](Ruby/8kyu/unfinished_loop_bug_fixing_№1.md)
 * [Sort and Star](Ruby/8kyu/sort_and_star.md)
 * [To square(root) or not to square(root)](Ruby/8kyu/to_square_root_or_not_to_square_root.md)
 * [Expressions Matter](Ruby/8kyu/expressions_matter.md)
@@ -112,6 +112,13 @@
 * [Vowel remover](Ruby/8kyu/vowel_remover.md)
 * [What's the real floor?](Ruby/8kyu/whats_the_real_floor.md)
 * [Basic variable assignment](Ruby/8kyu/basic_variable_assignment.md)
+* [Exclamation marks series #1: Remove an exclamation mark from the end of string](
+       Ruby/8kyu/exclamation_marks_series_№1_remove_an_exclamation_mark_from_the_end_of_string.md)
+* [get character from ASCII Value](Ruby/8kyu/get_character_from_ASCII_value.md)
+* [Multiplication table for number](Ruby/8kyu/multiplication_table_for_number.md)
+* [String Templates - Bug Fixing #5](Ruby/8kyu/string_templates_bug_fixing_№5.md)
+* [Dollars and Cents](Ruby/8kyu/dollars_and_cents.md)
+
 
 ## SQL
 
