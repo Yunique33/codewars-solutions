@@ -1,4 +1,4 @@
-# **[Dollars and Cents](https://www.codewars.com/kata/55902c5eaa8069a5b4000083)**
+# [Dollars and Cents](https://www.codewars.com/kata/55902c5eaa8069a5b4000083)
 
 # Description
 The company you work for has just been awarded a contract to build a payment gateway. In order to help move things 

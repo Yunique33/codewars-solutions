@@ -118,6 +118,9 @@
 * [Multiplication table for number](Ruby/8kyu/multiplication_table_for_number.md)
 * [String Templates - Bug Fixing #5](Ruby/8kyu/string_templates_bug_fixing_№5.md)
 * [Dollars and Cents](Ruby/8kyu/dollars_and_cents.md)
+* [How many lightsabers do you own?](Ruby/8kyu/how_many_lightsabers_do_you_own.md)
+* [Find the Remainder](Ruby/8kyu/find_the_remainder.md)
+* [Find out whether the shape is a cube](Ruby/8kyu/find_out_whether_the_shape_is_cube.md)
 
 
 ## SQL
