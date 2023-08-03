@@ -121,6 +121,12 @@
 * [How many lightsabers do you own?](Ruby/8kyu/how_many_lightsabers_do_you_own.md)
 * [Find the Remainder](Ruby/8kyu/find_the_remainder.md)
 * [Find out whether the shape is a cube](Ruby/8kyu/find_out_whether_the_shape_is_cube.md)
+* [Exclamation marks series #2: Remove all exclamation marks from the end of sentence](
+       Ruby/8kyu/exclamation_marks_series_№2_remove_all_exclamation_marks_from_the_end_of_sentence.md)
+* [Exclamation marks series #4: Remove all exclamation marks from sentence but ensure a exclamation mark at the end of string](
+       Ruby/8kyu/exclamation_marks_series_№4_remove_all_exclamation_marks_from_sentence_but_ensure_a_exclamation_mark_at_the_end_of_a_string.md)
+* [Check same case](Ruby/8kyu/check_same_case.md)
+
 
 
 ## SQL
