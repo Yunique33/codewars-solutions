@@ -126,6 +126,10 @@
 * [Exclamation marks series #4: Remove all exclamation marks from sentence but ensure a exclamation mark at the end of string](
        Ruby/8kyu/exclamation_marks_series_№4_remove_all_exclamation_marks_from_sentence_but_ensure_a_exclamation_mark_at_the_end_of_a_string.md)
 * [Check same case](Ruby/8kyu/check_same_case.md)
+* [Pillars](Ruby/8kyu/pillars.md)
+* [Template Strings](Ruby/8kyu/template_strings.md)
+* [Classy Classes](Ruby/8kyu/classy_classes.md)
+* [Pirates!! Are the Cannons ready!??](Ruby/8kyu/pirates_are_the_cannons_ready.md)
 
 
 
