@@ -16,9 +16,5 @@ As you can see, the lists are cascading; ie, they overlap, but never out of orde
 
 # My Solution
 ```ruby
-class Cat < Animal
-  def speak
-    "#{@name} meows."
-  end
-end
+
 ```
