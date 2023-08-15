@@ -1,4 +1,4 @@
-# [Classy Classes](https://www.codewars.com/kata/55a144eff5124e546400005a)
+# [Pirates!! Are the Cannons ready!??](https://www.codewars.com/kata/5748a883eb737cab000022a6)
 
 # Description
 Ahoy Matey!

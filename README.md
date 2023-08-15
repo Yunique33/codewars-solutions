@@ -130,6 +130,9 @@
 * [Template Strings](Ruby/8kyu/template_strings.md)
 * [Classy Classes](Ruby/8kyu/classy_classes.md)
 * [Pirates!! Are the Cannons ready!??](Ruby/8kyu/pirates_are_the_cannons_ready.md)
+* [Find the Slope](Ruby/8kyu/find_the_slope.md)
+* [Classy Extentions](Ruby/8kyu/classy_extensions.md)
+* [Enumerable Magic #20 - Cascading Subsets](Ruby/8kyu/enumerable_magic_№20_cascading_subsets.md)
 
 
 
