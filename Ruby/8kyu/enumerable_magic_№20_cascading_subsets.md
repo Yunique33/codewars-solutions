@@ -16,5 +16,7 @@ As you can see, the lists are cascading; ie, they overlap, but never out of orde
 
 # My Solution
 ```ruby
-
+def each_cons(list, n)
+  list.each_cons(n).to_a
+end
 ```
