@@ -135,6 +135,7 @@
 * [Enumerable Magic #20 - Cascading Subsets](Ruby/8kyu/enumerable_magic_№20_cascading_subsets.md)
 * [Points of Reflection](Ruby/8kyu/points_of_reflection.md)
 * [Never visit a . . . !?](Ruby/8kyu/never_visit_a.md)
+* [Finish Guess the Number Game](Ruby/8kyu/finish_guess_the_number_game.md)
 
 
 
