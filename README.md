@@ -136,7 +136,8 @@
 * [Points of Reflection](Ruby/8kyu/points_of_reflection.md)
 * [Never visit a . . . !?](Ruby/8kyu/never_visit_a.md)
 * [Finish Guess the Number Game](Ruby/8kyu/finish_guess_the_number_game.md)
-
+* [For Twins: 2. Math operations](Ruby/8kyu/for_twins_2_math_operations.md)
+* [Aspect Ratio Cropping - Part 1](Ruby/8kyu/aspect_ratio_cropping_part_1.md)
 
 
 ## SQL
