@@ -28,3 +28,10 @@ def aspect_ratio(x, y)
   [(y.to_f / 9 * 16).ceil, y]
 end
 ```
+
+# Better/Alternative solution from Codewars
+```ruby
+def aspect_ratio(x, y)
+  [(y * 16 + 8) / 9 , y]
+end
+```

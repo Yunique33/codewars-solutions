@@ -138,6 +138,9 @@
 * [Finish Guess the Number Game](Ruby/8kyu/finish_guess_the_number_game.md)
 * [For Twins: 2. Math operations](Ruby/8kyu/for_twins_2_math_operations.md)
 * [Aspect Ratio Cropping - Part 1](Ruby/8kyu/aspect_ratio_cropping_part_1.md)
+* [Draw stairs](Ruby/8kyu/draw_stairs.md)
+* [Quadratic Coefficients Solver](Ruby/8kyu/quadratic_coefficients_solver.md)
+* [Heads and Legs](Ruby/8kyu/heads_and_legs.md)
 
 
 ## SQL
