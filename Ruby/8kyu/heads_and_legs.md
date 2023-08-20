@@ -39,5 +39,11 @@ Happy coding!
 
 # My Solution
 ```ruby
+def animals(heads, legs)
+  chickens = legs / 2 - heads
+  res = [heads - chickens, chickens] 
+  return "No solutions" if res.find(&:negative?) || legs.odd?
+  res
+end
 
 ```

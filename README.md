@@ -112,8 +112,7 @@
 * [Vowel remover](Ruby/8kyu/vowel_remover.md)
 * [What's the real floor?](Ruby/8kyu/whats_the_real_floor.md)
 * [Basic variable assignment](Ruby/8kyu/basic_variable_assignment.md)
-* [Exclamation marks series #1: Remove an exclamation mark from the end of string](
-       Ruby/8kyu/exclamation_marks_series_№1_remove_an_exclamation_mark_from_the_end_of_string.md)
+* [Exclamation marks series #1: Remove an exclamation mark from the end of string](Ruby/8kyu/exclamation_marks_series_№1_remove_an_exclamation_mark_from_the_end_of_string.md)
 * [get character from ASCII Value](Ruby/8kyu/get_character_from_ASCII_value.md)
 * [Multiplication table for number](Ruby/8kyu/multiplication_table_for_number.md)
 * [String Templates - Bug Fixing #5](Ruby/8kyu/string_templates_bug_fixing_№5.md)
@@ -121,10 +120,8 @@
 * [How many lightsabers do you own?](Ruby/8kyu/how_many_lightsabers_do_you_own.md)
 * [Find the Remainder](Ruby/8kyu/find_the_remainder.md)
 * [Find out whether the shape is a cube](Ruby/8kyu/find_out_whether_the_shape_is_cube.md)
-* [Exclamation marks series #2: Remove all exclamation marks from the end of sentence](
-       Ruby/8kyu/exclamation_marks_series_№2_remove_all_exclamation_marks_from_the_end_of_sentence.md)
-* [Exclamation marks series #4: Remove all exclamation marks from sentence but ensure a exclamation mark at the end of string](
-       Ruby/8kyu/exclamation_marks_series_№4_remove_all_exclamation_marks_from_sentence_but_ensure_a_exclamation_mark_at_the_end_of_a_string.md)
+* [Exclamation marks series #2: Remove all exclamation marks from the end of sentence](Ruby/8kyu/exclamation_marks_series_№2_remove_all_exclamation_marks_from_the_end_of_sentence.md)
+* [Exclamation marks series #4: Remove all exclamation marks from sentence but ensure a exclamation mark at the end of string](Ruby/8kyu/exclamation_marks_series_№4_remove_all_exclamation_marks_from_sentence_but_ensure_a_exclamation_mark_at_the_end_of_a_string.md)
 * [Check same case](Ruby/8kyu/check_same_case.md)
 * [Pillars](Ruby/8kyu/pillars.md)
 * [Template Strings](Ruby/8kyu/template_strings.md)
@@ -141,6 +138,9 @@
 * [Draw stairs](Ruby/8kyu/draw_stairs.md)
 * [Quadratic Coefficients Solver](Ruby/8kyu/quadratic_coefficients_solver.md)
 * [Heads and Legs](Ruby/8kyu/heads_and_legs.md)
+* [Ruby Metaprogramming 101 - Dynamic Method Calls](Ruby/8kyu/ruby_metaprogramming_101_dynamic_method_calls.md)
+* [They say that only the name is long enough to attract attention. They also said that only a simple Kata will have someone to solve it. This is a sadly story #1: Are they opposite?](Ruby/8kyu/they_say_that_only_the_name_is_long_enough_to_attract_attention_they_also_said_that_only_a_simple_kata_will_have_someone_to_solve_it_this_is_a_sadly_story_№1_are_they_opposite.md)
+* [Remove the time](Ruby/8kyu/remove_the_time.md)
 
 
 ## SQL
