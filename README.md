@@ -141,6 +141,7 @@
 * [Ruby Metaprogramming 101 - Dynamic Method Calls](Ruby/8kyu/ruby_metaprogramming_101_dynamic_method_calls.md)
 * [They say that only the name is long enough to attract attention. They also said that only a simple Kata will have someone to solve it. This is a sadly story #1: Are they opposite?](Ruby/8kyu/they_say_that_only_the_name_is_long_enough_to_attract_attention_they_also_said_that_only_a_simple_kata_will_have_someone_to_solve_it_this_is_a_sadly_story_№1_are_they_opposite.md)
 * [Remove the time](Ruby/8kyu/remove_the_time.md)
+* [Thinkful - Number Drills: Blue and red marbles](Ruby/8kyu/thinkful_number_drills_blue_and_red_marbles.md)
 
 
 ## SQL
