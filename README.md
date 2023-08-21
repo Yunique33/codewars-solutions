@@ -150,7 +150,11 @@
 * [Is your period late?](Ruby/8kyu/is_your_period_late.md)
 * [Days in the year](Ruby/8kyu/days_in_the_year.md)
 * [The 'if' function](Ruby/8kyu/the_if_function.md)
-
+* [Yield to the Block](Ruby/8kyu/yield_to_the_block.md)
+* [Enumerable Magic #16 - Sort that List!](Ruby/8kyu/enumerable_magic_16_sort_that_list.md)
+* [Enumerable Magic #17 - Sort that List by Value!](Ruby/8kyu/enumerable_magic_17_sort_that_list_by_value.md)
+* [5 without numbers !!](Ruby/8kyu/5_without_numbers.md)
+* [Name on billboard](Ruby/8kyu/name_on_billboard.md)
 
 ## SQL
 
