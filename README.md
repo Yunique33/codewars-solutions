@@ -144,6 +144,12 @@
 * [Thinkful - Number Drills: Blue and red marbles](Ruby/8kyu/thinkful_number_drills_blue_and_red_marbles.md)
 * [Be Concise I - The Ternary Operator](Ruby/8kyu/be_concise_I_the_ternary_operator.md)
 * [Invalid Login - Bug Fixing #11](Ruby/8kyu/invalid_login_bug_fixing_№11.md)
+* [Training JS #7: if..else and ternary operator](Ruby/8kyu/training_js_№7_if_else_and_ternary_operator.md)
+* [Stringy Strings](Ruby/8kyu/stringy_strings.md)
+* [Bin to Decimal](Ruby/8kyu/bin_to_decimal.md)
+* [Is your period late?](Ruby/8kyu/is_your_period_late.md)
+* [Days in the year](Ruby/8kyu/days_in_the_year.md)
+* [The 'if' function](Ruby/8kyu/the_if_function.md)
 
 
 ## SQL
