@@ -155,6 +155,8 @@
 * [Enumerable Magic #17 - Sort that List by Value!](Ruby/8kyu/enumerable_magic_17_sort_that_list_by_value.md)
 * [5 without numbers !!](Ruby/8kyu/5_without_numbers.md)
 * [Name on billboard](Ruby/8kyu/name_on_billboard.md)
+* [The Wide-Mouthed frog!](Ruby/8kyu/the_wide_mouthed_frog.md)
+* [Compare within margin](Ruby/8kyu/compare_within_margin.md)
 
 ## SQL
 
