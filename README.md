@@ -157,6 +157,8 @@
 * [Name on billboard](Ruby/8kyu/name_on_billboard.md)
 * [The Wide-Mouthed frog!](Ruby/8kyu/the_wide_mouthed_frog.md)
 * [Compare within margin](Ruby/8kyu/compare_within_margin.md)
+* [OOP: Object Oriented Piracy](Ruby/8kyu/oop_object_oriented_piracy.md)
+* [Basic subclasses - Adam and Eve](Ruby/8kyu/basic_subclasses_adam_and_eve.md)
 
 ## SQL
 
