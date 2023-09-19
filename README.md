@@ -162,6 +162,8 @@
 * [Color Ghost](Ruby/8kyu/color_ghost.md)
 * [Barking mad](Ruby/8kyu/barking_mad.md)
 * [Playing with cubes II](Ruby/8kyu/playing_with_cubes_II.md)
+* [Classic Hello World](Ruby/8kyu/classic_hello_world.md)
+* [String cleaning](Ruby/8kyu/string_cleaning.md)
 
 ## SQL
 
