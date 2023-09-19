@@ -18,6 +18,7 @@ def index(array, n)
   array[n] ? array[n] **n : -1
 end
 ```
+
 # Better/Alternative solution from Codewars
 ```ruby
 def index(arr, n)

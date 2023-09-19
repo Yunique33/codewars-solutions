@@ -159,6 +159,9 @@
 * [Compare within margin](Ruby/8kyu/compare_within_margin.md)
 * [OOP: Object Oriented Piracy](Ruby/8kyu/oop_object_oriented_piracy.md)
 * [Basic subclasses - Adam and Eve](Ruby/8kyu/basic_subclasses_adam_and_eve.md)
+* [Color Ghost](Ruby/8kyu/color_ghost.md)
+* [Barking mad](Ruby/8kyu/barking_mad.md)
+* [Playing with cubes II](Ruby/8kyu/playing_with_cubes_II.md)
 
 ## SQL
 
