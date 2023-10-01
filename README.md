@@ -164,6 +164,7 @@
 * [Playing with cubes II](Ruby/8kyu/playing_with_cubes_II.md)
 * [Classic Hello World](Ruby/8kyu/classic_hello_world.md)
 * [String cleaning](Ruby/8kyu/string_cleaning.md)
+* [Simple validation of a username with regex](Ruby/8kyu/simple_validation_of_a_username_with_regex.md)
 
 ## SQL
 
