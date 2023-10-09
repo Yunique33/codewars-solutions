@@ -169,6 +169,8 @@
 * [A Strange Trip to the Market](Ruby/8kyu/a_strange_trip_to_the_market.md)
 * [validate code with simple regex](Ruby/8kyu/validate_code_with_simple_regex.md)
 * [Regexp Basics - is it a digit?](Ruby/8kyu/regexp_basics_is_it_a_digit.md)
+* [Surface Area and Volume of a Box](Ruby/8kyu/surface_area_and_volume_of_a_box.md)
+* [Area of a Square](Ruby/8kyu/area_of_a_square.md)
 
 ## SQL
 
