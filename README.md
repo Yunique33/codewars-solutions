@@ -167,6 +167,8 @@
 * [Simple validation of a username with regex](Ruby/8kyu/simple_validation_of_a_username_with_regex.md)
 * [Get number from string](Ruby/8kyu/get_number_from_string.md)
 * [A Strange Trip to the Market](Ruby/8kyu/a_strange_trip_to_the_market.md)
+* [validate code with simple regex](Ruby/8kyu/validate_code_with_simple_regex.md)
+* [Regexp Basics - is it a digit?](Ruby/8kyu/regexp_basics_is_it_a_digit.md)
 
 ## SQL
 
