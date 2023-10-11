@@ -62,7 +62,7 @@
 * [Rock Paper Scissors!](Ruby/8kyu/rock_paper_scissors.md)
 * [Total amount of points](Ruby/8kyu/total_amount_of_points.md)
 * [Get the mean of an array](Ruby/8kyu/get_the_mean_of_an_array.md)
-* [Sum without highest and lowest number](Ruby/8kyu/x)
+* [Sum without highest and lowest number](Ruby/8kyu/sum_without_highest_and_lowest_number.md)
 * [Grasshopper - Grade book](Ruby/8kyu/grasshopper_grade_book.md)
 * [Count the Monkeys!](Ruby/8kyu/count_the_monkeys.md)
 * [Grasshopper - Personalized Message](Ruby/8kyu/grasshopper_personalized_message.md)
@@ -172,6 +172,10 @@
 * [Surface Area and Volume of a Box](Ruby/8kyu/surface_area_and_volume_of_a_box.md)
 * [Area of a Square](Ruby/8kyu/area_of_a_square.md)
 * [Geometry Basics: Distance between points in 2D](Ruby/8kyu/geometry_basics_distance_between_points_in_2d.md)
+* [Localize The Barycenter of a Triangle](Ruby/8kyu/localize_the_barycenter_of_a_triangle.md)
+* [Quadrants](Ruby/8kyu/quadrants.md)
+* [Geometry Basics: Circle Area in 2D](Ruby/8kyu/geometry_basics_circle_area_in_2d.md)
+* [Geometry Basics: Circle Circumference in 2D](Ruby/8kyu/geometry_basics_circle_circumference_in_2d.md) 
 
 ## SQL
 
