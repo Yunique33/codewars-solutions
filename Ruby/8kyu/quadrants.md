@@ -24,7 +24,7 @@ lies on the axes.
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cartesian_coordinates_2D.svg/300px-Cartesian_coordinates_2D.svg.png">
 </p>
 
-<p style="text-align: center;">Quadrants</p>
+<p align="center">Quadrants</p>
 
 There are four quadrants:
 
