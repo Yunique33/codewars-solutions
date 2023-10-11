@@ -171,6 +171,7 @@
 * [Regexp Basics - is it a digit?](Ruby/8kyu/regexp_basics_is_it_a_digit.md)
 * [Surface Area and Volume of a Box](Ruby/8kyu/surface_area_and_volume_of_a_box.md)
 * [Area of a Square](Ruby/8kyu/area_of_a_square.md)
+* [Geometry Basics: Distance between points in 2D](Ruby/8kyu/geometry_basics_distance_between_points_in_2d.md)
 
 ## SQL
 
