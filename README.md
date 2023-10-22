@@ -181,6 +181,8 @@
 * [Add Length](Ruby/8kyu/add_length.md)
 * [Remove duplicates from list](Ruby/8kyu/remove_duplicates_from_list.md)
 * [Grasshopper - Array Mean](Ruby/8kyu/grasshopper_array_mean.md)
+* [Duck Duck Goose](Ruby/8kyu/duck_duck_goose.md)
+* [Return Two Highest Values in List](Ruby/8kyu/return_two_highest_values_in_list.md)
 
 ## SQL
 
