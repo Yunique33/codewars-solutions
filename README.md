@@ -177,6 +177,8 @@
 * [Geometry Basics: Circle Area in 2D](Ruby/8kyu/geometry_basics_circle_area_in_2d.md)
 * [Geometry Basics: Circle Circumference in 2D](Ruby/8kyu/geometry_basics_circle_circumference_in_2d.md)
 * [Reverse List Order](Ruby/8kyu/reverse_list_order.md)
+* [Lario and Muigi Pipe Problem](Ruby/8kyu/lario_and_muigi_pipe_problem.md)
+* [Add Length](Ruby/8kyu/add_length.md)
 
 ## SQL
 
