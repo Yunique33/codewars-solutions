@@ -179,6 +179,8 @@
 * [Reverse List Order](Ruby/8kyu/reverse_list_order.md)
 * [Lario and Muigi Pipe Problem](Ruby/8kyu/lario_and_muigi_pipe_problem.md)
 * [Add Length](Ruby/8kyu/add_length.md)
+* [Remove duplicates from list](Ruby/8kyu/remove_duplicates_from_list.md)
+* [Grasshopper - Array Mean](Ruby/8kyu/grasshopper_array_mean.md)
 
 ## SQL
 
