@@ -175,7 +175,8 @@
 * [Localize The Barycenter of a Triangle](Ruby/8kyu/localize_the_barycenter_of_a_triangle.md)
 * [Quadrants](Ruby/8kyu/quadrants.md)
 * [Geometry Basics: Circle Area in 2D](Ruby/8kyu/geometry_basics_circle_area_in_2d.md)
-* [Geometry Basics: Circle Circumference in 2D](Ruby/8kyu/geometry_basics_circle_circumference_in_2d.md) 
+* [Geometry Basics: Circle Circumference in 2D](Ruby/8kyu/geometry_basics_circle_circumference_in_2d.md)
+* [Reverse List Order](Ruby/8kyu/reverse_list_order.md)
 
 ## SQL
 
