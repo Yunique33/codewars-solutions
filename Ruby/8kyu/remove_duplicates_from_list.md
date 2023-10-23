@@ -17,5 +17,7 @@ Input -> Output
 # My Solution
 
 ```ruby
-
+def distinct(seq)
+  seq.uniq
+end
 ```
