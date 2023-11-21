@@ -184,6 +184,7 @@
 * [Duck Duck Goose](Ruby/8kyu/duck_duck_goose.md)
 * [Return Two Highest Values in List](Ruby/8kyu/return_two_highest_values_in_list.md)
 * [Get Nth Even Number](Ruby/8kyu/get_nth_even_number.md)
+* [Triple Trouble](Ruby/8kyu/triple_trouble.md)
 
 ## SQL
 
