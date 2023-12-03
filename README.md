@@ -185,6 +185,8 @@
 * [Return Two Highest Values in List](Ruby/8kyu/return_two_highest_values_in_list.md)
 * [Get Nth Even Number](Ruby/8kyu/get_nth_even_number.md)
 * [Triple Trouble](Ruby/8kyu/triple_trouble.md)
+* [Simple Fun #1: Seats in Theater](Ruby/8kyu/simple_fun_№1_seats_in_theater.md)
+* [Gravity Flip](Ruby/8kyu/gravity_flip.md)
 
 ## SQL
 
