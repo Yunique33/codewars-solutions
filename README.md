@@ -187,6 +187,8 @@
 * [Triple Trouble](Ruby/8kyu/triple_trouble.md)
 * [Simple Fun #1: Seats in Theater](Ruby/8kyu/simple_fun_№1_seats_in_theater.md)
 * [Gravity Flip](Ruby/8kyu/gravity_flip.md)
+* [Simple Fun #261: Whose Move](Ruby/8kyu/simple_fun_№261_whose_move.md)
+* [Count the number of cubes with paint on](Ruby/8kyu/count_the_number_of_cubes_with_paint_on.md)
 
 ## SQL
 
