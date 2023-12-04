@@ -31,10 +31,3 @@ def whose_move(last_player, win)
   win ? last_player : opposite_player
 end
 ```
-
-# Better/Alternative solution from Codewars
-```ruby
-def smash(words)
-  words * ' '
-end
-```
