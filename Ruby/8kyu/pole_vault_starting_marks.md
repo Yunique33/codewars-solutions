@@ -21,5 +21,13 @@ able to determine that constant offset.
 
 # My Solution
 ```ruby
-
+def starting_mark(height)
+  x1, x2 = 1.52, 1.83
+  y1, y2 = 9.45, 10.67
+  
+  k = (y2-y1)/(x2-x1)
+  b = y1 - k * x1
+  
+  (k * height + b).round(2)
+end
 ```
