@@ -190,6 +190,7 @@
 * [Simple Fun #261: Whose Move](Ruby/8kyu/simple_fun_№261_whose_move.md)
 * [Count the number of cubes with paint on](Ruby/8kyu/count_the_number_of_cubes_with_paint_on.md)
 * [Pole Vault Starting Marks](Ruby/8kyu/pole_vault_starting_marks.md)
+* [Up and down, the string grows](Ruby/8kyu/up_and_down_the_string_grows.md)
 
 ## SQL
 

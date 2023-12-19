@@ -13,7 +13,6 @@ def validate_code(code)
 end
 ```
 
-
 # Better/Alternative solution from Codewars
 ```ruby
 def validate_code(code)
