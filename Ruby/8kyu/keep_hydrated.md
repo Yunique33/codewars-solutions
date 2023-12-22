@@ -22,6 +22,7 @@ def litres(time)
   (time/2).floor
 end
 ```
+
 # Better/Alternative solution from Codewars
 ```ruby
 def litres(time)
