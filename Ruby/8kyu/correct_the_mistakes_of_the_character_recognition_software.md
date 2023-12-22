@@ -16,7 +16,6 @@ Your task is correct the errors in the digitised text. You only have to handle t
 The test cases contain numbers only by mistake.
 
 ### Examples
-
 >count_by(1,10) #should return [1,2,3,4,5,6,7,8,9,10]\
 count_by(2,5) #should return [2,4,6,8,10]
 

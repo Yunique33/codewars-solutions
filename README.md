@@ -192,6 +192,8 @@
 * [Pole Vault Starting Marks](Ruby/8kyu/pole_vault_starting_marks.md)
 * [Up and down, the string grows](Ruby/8kyu/up_and_down_the_string_grows.md)
 * [Holiday VIII - Duty Free](Ruby/8kyu/holiday_viii-duty_free.md)
+* [Convert to Binary](Ruby/8kyu/convert_to_binary.md)
+* [Alan Partridge II - Apple Turnover](Ruby/8kyu/alan_partridge_ii_apple_turnover.md)
 
 ## SQL
 
