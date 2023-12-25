@@ -12,6 +12,7 @@ Ghost objects are given a random color attribute of "white" or "yellow" or "purp
 ghost = Ghost.new
 ghost.color  #=> "white" or "yellow" or "purple" or "red"
 ```
+
 # My Solution
 ```ruby
 class Ghost
