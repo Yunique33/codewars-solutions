@@ -199,6 +199,8 @@
 * [NBA full 48 minutes average](Ruby/8kyu/nba_full_48_minutes_average.md)
 * [Evil or Odious](Ruby/8kyu/evil_or_odius.md)
 * [Playing with cubes I](Ruby/8kyu/playing_with_cubes_i.md)
+* [How much water do I need?](Ruby/8kyu/how_much_water_do_i_need.md)
+* [Wilson primes](Ruby/8kyu/wilson_primes.md)
 
 ## SQL
 
