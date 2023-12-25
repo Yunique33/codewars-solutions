@@ -196,6 +196,7 @@
 * [Alan Partridge II - Apple Turnover](Ruby/8kyu/alan_partridge_ii_apple_turnover.md)
 * [Find Nearest square number](Ruby/8kyu/find_nearest_square_number.md)
 * [Collatz Conjecture (3n+1)](Ruby/8kyu/collatz_conjecture_3n+1.md)
+* [NBA full 48 minutes average](Ruby/8kyu/nba_full_48_minutes_average.md)
 
 ## SQL
 
