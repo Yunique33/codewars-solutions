@@ -201,6 +201,7 @@
 * [Playing with cubes I](Ruby/8kyu/playing_with_cubes_i.md)
 * [How much water do I need?](Ruby/8kyu/how_much_water_do_i_need.md)
 * [Wilson primes](Ruby/8kyu/wilson_primes.md)
+* [What is between?](Ruby/8kyu/what_is_between.md)
 
 ## SQL
 

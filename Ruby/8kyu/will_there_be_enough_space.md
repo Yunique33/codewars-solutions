@@ -25,6 +25,7 @@ def enough(cap, on, wait)
   cap - on >= wait ? 0 : wait - (cap - on)
 end
 ```
+
 # Better/Alternative solution from Codewars
 ```ruby
 def enough(cap, on, wait)
