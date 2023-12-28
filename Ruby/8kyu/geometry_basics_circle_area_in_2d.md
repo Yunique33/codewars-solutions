@@ -1,7 +1,6 @@
 # [Geometry Basics: Circle Area in 2D](https://www.codewars.com/kata/58e3f824a33b52c1dc0001c0)
 
 # Description
-
 This series of katas will introduce you to basics of doing geometry with computers.
 
 Write the function `circleArea`/`CircleArea` which takes in a `Circle` object and calculates the area of that circle.
@@ -36,7 +35,6 @@ end
 Tests round answers to 6 decimal places.
 
 # My Solution
-
 ```ruby
 def circle_area(circle)
   Math::PI * circle.radius**2
