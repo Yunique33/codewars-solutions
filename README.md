@@ -202,6 +202,7 @@
 * [How much water do I need?](Ruby/8kyu/how_much_water_do_i_need.md)
 * [Wilson primes](Ruby/8kyu/wilson_primes.md)
 * [What is between?](Ruby/8kyu/what_is_between.md)
+* [Short Long Short](Ruby/8kyu/short_long_short.md)
 
 ## SQL
 
