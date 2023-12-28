@@ -204,6 +204,7 @@
 * [What is between?](Ruby/8kyu/what_is_between.md)
 * [Short Long Short](Ruby/8kyu/short_long_short.md)
 * [Generate range of integers](Ruby/8kyu/generate_range_of_integers.md)
+* [Closest elevator](Ruby/8kyu/closest_elevator.md)
 
 ## SQL
 
