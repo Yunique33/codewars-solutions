@@ -37,8 +37,3 @@ def match(candidate, job)
   job['max_salary'] >= candidate['min_salary'] * 0.9
 end
 ```
-
-# Better/Alternative solution from Codewars
-```ruby
-
-```
