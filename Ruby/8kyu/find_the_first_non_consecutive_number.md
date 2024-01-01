@@ -34,6 +34,7 @@ def first_non_consecutive(arr)
   arr[arr.index(el.first+1)] unless el.empty?
 end
 ```
+
 # Better/Alternative solution from Codewars
 ```ruby
 def first_non_consecutive(arr)

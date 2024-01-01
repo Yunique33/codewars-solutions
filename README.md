@@ -205,6 +205,8 @@
 * [Short Long Short](Ruby/8kyu/short_long_short.md)
 * [Generate range of integers](Ruby/8kyu/generate_range_of_integers.md)
 * [Closest elevator](Ruby/8kyu/closest_elevator.md)
+* [Find the Difference in Age between Oldest and Youngest Family Members](Ruby/8kyu/find_the_difference_in_age_between_oldest_and_youngest_family_members.md)
+* [BASIC: Making Six Toast.](Ruby/8kyu/basic_making_six_toast.md)
 
 ## SQL
 
