@@ -14,6 +14,7 @@ def two_sort(s)
   s.sort.first.chars.join('***')
 end
 ```
+
 # Better/Alternative solution from Codewars
 ```ruby
 def two_sort(s)
