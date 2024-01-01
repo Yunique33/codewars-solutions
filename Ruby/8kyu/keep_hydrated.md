@@ -9,12 +9,13 @@ You get given the time in hours and you need to return the number of litres Nath
 value.
 
 For example:
+```
+hours = 3 ----> liters = 1
+ 
+hours = 6.7---> liters = 3
 
->hours = 3 ----> liters = 1
-> 
->hours = 6.7---> liters = 3
->
->hours = 11.8--> liters = 5
+hours = 11.8--> liters = 5
+```
 
 # My Solution
 ```ruby

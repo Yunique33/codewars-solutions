@@ -210,6 +210,7 @@
 * [Smallest unused ID](Ruby/8kyu/smallest_unused_id.md)
 * [Miles per gallon to kilometers per liter](Ruby/8kyu/miles_per_gallon_to_kilometers_per_liter.md)
 * [The falling speed of petals](Ruby/8kyu/the_falling_speed_of_petals.md)
+* [Job Matching #1](Ruby/8kyu/job_matching_№1.md)
 
 ## SQL
 
