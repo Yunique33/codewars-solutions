@@ -13,7 +13,6 @@ letters. beast and dish may contain hyphens and spaces, but these will not appea
 They will not contain numerals.
 
 # My Solution
-
 ```ruby
 def feast(beast, dish)
   beast[0] == dish[0] && beast[-1] == dish[-1]
