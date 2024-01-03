@@ -13,6 +13,7 @@ Some useful associations relevant to this kata:
 * 1 Imperial Gallon = 4.54609188 litres
 * 1 Mile = 1.609344 kilometres
 
+# My Solution
 ```ruby
 def converter(mpg)
   (mpg / (4.54609188/1.609344)).round(2)

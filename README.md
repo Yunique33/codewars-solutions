@@ -211,6 +211,7 @@
 * [Miles per gallon to kilometers per liter](Ruby/8kyu/miles_per_gallon_to_kilometers_per_liter.md)
 * [The falling speed of petals](Ruby/8kyu/the_falling_speed_of_petals.md)
 * [Job Matching #1](Ruby/8kyu/job_matching_№1.md)
+* [Merge two sorted arrays into one](Ruby/8kyu/merge_two_sorted_arrays_into_one.md)
 
 ## SQL
 
