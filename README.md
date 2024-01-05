@@ -213,6 +213,8 @@
 * [Job Matching #1](Ruby/8kyu/job_matching_№1.md)
 * [Merge two sorted arrays into one](Ruby/8kyu/merge_two_sorted_arrays_into_one.md)
 * [Multiple of index](Ruby/8kyu/multiple_of_index.md)
+* [Is there a vowel in there?](Ruby/8kyu/is_there_a_vowel_in_there.md)
+* [Merging sorted integer arrays (without duplicates)](Ruby/8kyu/merging_sorted_integer_arrays_without_duplicates.md)
 
 ## SQL
 
