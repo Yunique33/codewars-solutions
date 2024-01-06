@@ -9,5 +9,17 @@ Return the resulting array.
 
 # My Solution
 ```ruby
+def is_vow(a)
+  vowels = %w(a e i o u)
+  codes = {}
+  vowels.each {|vowel| codes[vowel.ord] = vowel }
+  a.map {|el| codes[el] || el}
+end
+```
 
+# Better/Alternative solution from Codewars
+```ruby
+def is_vow(a)
+  a.map { |l| l.chr =~ /[aeoui]/ ? l.chr : l }
+end
 ```
