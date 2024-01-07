@@ -13,7 +13,6 @@ Return the total figure the individual will receive as a string prefixed with "Â
 Java, Scala, and Julia), "$" (C#, C++, Ruby, Clojure, Elixir, PHP, Python, Haskell, and Lua) or "Â¥" (Rust).
 
 # My Solution
-
 ```ruby
 def bonus_time(salary, bonus)
   salary *= 10 if bonus
