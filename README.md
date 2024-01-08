@@ -216,6 +216,7 @@
 * [Is there a vowel in there?](Ruby/8kyu/is_there_a_vowel_in_there.md)
 * [Merging sorted integer arrays (without duplicates)](Ruby/8kyu/merging_sorted_integer_arrays_without_duplicates.md)
 * [Decibel Scale](Ruby/8kyu/decibel_scale.md)
+* [Find Multiples of a Number](Ruby/8kyu/find_multiples_of_a_number.md)
 
 ## SQL
 
