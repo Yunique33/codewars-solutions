@@ -217,6 +217,7 @@
 * [Merging sorted integer arrays (without duplicates)](Ruby/8kyu/merging_sorted_integer_arrays_without_duplicates.md)
 * [Decibel Scale](Ruby/8kyu/decibel_scale.md)
 * [Find Multiples of a Number](Ruby/8kyu/find_multiples_of_a_number.md)
+* [Filter out the geese](Ruby/8kyu/filter_out_the_geese.md)
 
 ## SQL
 
