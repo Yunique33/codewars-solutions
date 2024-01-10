@@ -218,6 +218,7 @@
 * [Decibel Scale](Ruby/8kyu/decibel_scale.md)
 * [Find Multiples of a Number](Ruby/8kyu/find_multiples_of_a_number.md)
 * [Filter out the geese](Ruby/8kyu/filter_out_the_geese.md)
+* [Sum of differences in array](Ruby/8kyu/sum_of_differences_in_array.md)
 
 ## SQL
 

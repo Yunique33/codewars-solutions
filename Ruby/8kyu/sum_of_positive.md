@@ -1,4 +1,4 @@
-# [Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381  )
+# [Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381)
 
 # Description
 You get an array of numbers, return the sum of all of the positives ones.\
@@ -11,6 +11,7 @@ def positive_sum(arr)
   arr.select(&:positive?).sum
 end
 ```
+
 # Better/Alternative solution from Codewars
 ```ruby
 def positive_sum(arr)
