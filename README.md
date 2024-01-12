@@ -220,6 +220,7 @@
 * [Filter out the geese](Ruby/8kyu/filter_out_the_geese.md)
 * [Sum of differences in array](Ruby/8kyu/sum_of_differences_in_array.md)
 * [Printing Array elements with Comma delimiters](Ruby/8kyu/printing_array_elements_with_comma_delimeters.md)
+* [Remove First and Last Character Part Two](Ruby/8kyu/remove_first_and_last_character_part_two.md)
 
 ## SQL
 
