@@ -6,17 +6,17 @@ to the way `.first` and `.last` work in Ruby).
 
 If there is no element with index `1` in the array, return `nil`.
 
-# Example
-```
-[3, 4, 5].second  #  => 4 
-[].second         #  => nil
-````
-
 ```ruby
 class Array
 
 end
 ```
+
+# Example
+```
+[3, 4, 5].second  #  => 4 
+[].second         #  => nil
+````
 
 # My Solution
 ```ruby
