@@ -222,6 +222,7 @@
 * [Printing Array elements with Comma delimiters](Ruby/8kyu/printing_array_elements_with_comma_delimeters.md)
 * [Remove First and Last Character Part Two](Ruby/8kyu/remove_first_and_last_character_part_two.md)
 * [Basic Training: Add item to an Array](Ruby/8kyu/basic_training_add_item_to_an_array.md)
+* [Array#second](Ruby/8kyu/array_second.md)
 
 ## SQL
 
