@@ -223,6 +223,7 @@
 * [Remove First and Last Character Part Two](Ruby/8kyu/remove_first_and_last_character_part_two.md)
 * [Basic Training: Add item to an Array](Ruby/8kyu/basic_training_add_item_to_an_array.md)
 * [Array#second](Ruby/8kyu/array_second.md)
+* [How many stairs will Suzuki climb in 20 years?](Ruby/8kyu/how_many_stairs_will_suzuki_climb_in_20_years.md)
 
 ## SQL
 
