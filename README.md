@@ -224,6 +224,7 @@
 * [Basic Training: Add item to an Array](Ruby/8kyu/basic_training_add_item_to_an_array.md)
 * [Array#second](Ruby/8kyu/array_second.md)
 * [How many stairs will Suzuki climb in 20 years?](Ruby/8kyu/how_many_stairs_will_suzuki_climb_in_20_years.md)
+* [CSV representation of array](Ruby/8kyu/csv_representation_of_array.md)
 
 ## SQL
 
