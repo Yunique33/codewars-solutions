@@ -1,4 +1,4 @@
-[UEFA EURO 2016](https://www.codewars.com/kata/57613fb1033d766171000d60)
+# [UEFA EURO 2016](https://www.codewars.com/kata/57613fb1033d766171000d60)
 
 # Description
 Finish the uefaEuro2016() function so it return string just like in the examples below:
