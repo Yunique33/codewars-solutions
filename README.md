@@ -227,6 +227,7 @@
 * [CSV representation of array](Ruby/8kyu/csv_representation_of_array.md)
 * [UEFA EURO 2016](Ruby/8kyu/uefa_euro_2016.md)
 * [Enumerable Magic #1 - True for All?](Ruby/8kyu/enumerable_magic_№1_true_for_all.md)
+* [Logical calculator](Ruby/8kyu/logical_calculator.md)
 
 ## SQL
 
