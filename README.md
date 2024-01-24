@@ -229,6 +229,10 @@
 * [Enumerable Magic #1 - True for All?](Ruby/8kyu/enumerable_magic_№1_true_for_all.md)
 * [Logical calculator](Ruby/8kyu/logical_calculator.md)
 * [Push a hash/an object into array](Ruby/8kyu/push_a_hash_an_object_into_array.md)
+* [Is the string uppercase?](Ruby/8kyu/is_the_string_uppercase.md)
+* [Name Shuffler](Ruby/8kyu/name_shuffler.md)
+* [Capitalization and Mutability](Ruby/8kyu/capitalization_and_mutability.md)
+* [Reversing Words in a String](Ruby/8kyu/reversing_words_in_a_string.md)
 
 ## SQL
 
