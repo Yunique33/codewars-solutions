@@ -20,5 +20,15 @@ DECK = ['2S','3S','4S','5S','6S','7S','8S','9S','10S','JS','QS','KS','AS',
 ```
 # My Solution
 ```ruby
+CARDS = {
+  'C': 'clubs',
+  'D': 'diamonds',
+  'H': 'hearts',
+  'S': 'spades'
+}
 
+def define_suit(card)
+  puts CARDS
+  CARDS[card[-1].to_sym]
+end
 ```
