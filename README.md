@@ -234,6 +234,7 @@
 * [Capitalization and Mutability](Ruby/8kyu/capitalization_and_mutability.md)
 * [Reversing Words in a String](Ruby/8kyu/reversing_words_in_a_string.md)
 * [Welcome to the City](Ruby/8kyu/welcome_to_the_city.md)
+* [Define a card suit](Ruby/8kyu/define_a_card_suit.md)
 
 ## SQL
 
