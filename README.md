@@ -235,6 +235,10 @@
 * [Reversing Words in a String](Ruby/8kyu/reversing_words_in_a_string.md)
 * [Welcome to the City](Ruby/8kyu/welcome_to_the_city.md)
 * [Define a card suit](Ruby/8kyu/define_a_card_suit.md)
+* [L1: Bartender, drinks!](Ruby/8kyu/l1_bartender_drinks.md)
+* [Contamination #1 -String-](Ruby/8kyu/contamination_№1_string.md)
+* [Who is going to pay for the wall?](Ruby/8kyu/who_is_going_to_pay_for_the_wall.md)
+* [Polish alphabet](Ruby/8kyu/polish_alphabet.md)
 
 ## SQL
 
