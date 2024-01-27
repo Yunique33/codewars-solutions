@@ -239,6 +239,7 @@
 * [Contamination #1 -String-](Ruby/8kyu/contamination_№1_string.md)
 * [Who is going to pay for the wall?](Ruby/8kyu/who_is_going_to_pay_for_the_wall.md)
 * [Polish alphabet](Ruby/8kyu/polish_alphabet.md)
+* [Crash Override](Ruby/8kyu/crash_override.md)
 
 ## SQL
 
