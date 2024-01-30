@@ -241,6 +241,7 @@
 * [Polish alphabet](Ruby/8kyu/polish_alphabet.md)
 * [Crash Override](Ruby/8kyu/crash_override.md)
 * [Safen User Input Part I - htmlspecialchars](Ruby/8kyu/safen_user_input_part_I_htmlspecialchars.md)
+* [Grasshopper - If/else syntax debug](Ruby/8kyu/grasshopper_if_else_syntax_debug.md)
 
 ## SQL
 
