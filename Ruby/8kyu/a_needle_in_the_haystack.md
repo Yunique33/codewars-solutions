@@ -3,12 +3,11 @@
 # Description
 Can you find the needle in the haystack?
 
-Write a function <code>findNeedle()</code> that takes an <code>array</code> full of junk but containing 
-one <code>"needle"</code>
+Write a function `findNeedle()` that takes an `array` full of junk but containing one `"needle"`
 
 After your function finds the needle it should return a message (as a string) that says:
 
-<code>"found the needle at position "</code> plus the <code>index</code> it found the needle, so:
+`"found the needle at position "` plus the `index` it found the needle, so:
 
 **Example(Input --> Output)**
 >["hay", "junk", "hay", "hay", "moreJunk", "needle", "randomJunk"] --> "found the needle at position 5"
