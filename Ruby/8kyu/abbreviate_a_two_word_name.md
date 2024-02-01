@@ -7,19 +7,20 @@ The output should be two capital letters with a dot separating them.
 
 It should look like this:
 
-<code>Sam Harris</code> => <code>S.H</code>
+`Sam Harris` => `S.H`
 
-<code>patrick feeney</code> => <code>P.F</code>
+`patrick feeney` => `P.F`
+
 # My Solution
 ```ruby
 def abbrev_name(name)
   name.split(' ').map{|el| el[0].upcase}.join('.')
 end
 ```
+
 # Better/Alternative solution from Codewars
 ```ruby
 def abbrev_name(name)
   name.split.map { |s| s[0]}.join('.').upcase
 end
 ```
-
