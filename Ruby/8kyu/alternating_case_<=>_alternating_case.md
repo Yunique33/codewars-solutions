@@ -2,9 +2,9 @@
 
 # Description
 ## altERnaTIng cAsE <=> ALTerNAtiNG CaSe
-Define <code>String.prototype.toAlternatingCase</code> (or a similar function/method _such as_ 
-<code>to_alternating_case</code>/<code>toAlternatingCase</code>/<code>ToAlternatingCase</code> in your selected 
-language; **see the initial solution for details**) such that each lowercase letter becomes uppercase and each uppercase letter becomes lowercase. For example:
+Define `String.prototype.toAlternatingCase` (or a similar function/method _such as_ 
+`to_alternating_case`/`toAlternatingCase`/`ToAlternatingCase` in your selected language; **see the initial solution for 
+details**) such that each lowercase letter becomes uppercase and each uppercase letter becomes lowercase. For example:
 
 >"hello world".to_alternating_case() === "HELLO WORLD"\
 "HELLO WORLD".to_alternating_case() === "hello world"\
