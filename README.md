@@ -245,6 +245,7 @@
 * [Is this my tail?](Ruby/8kyu/is_this_my_tail.md)
 * [Collinearity](Ruby/8kyu/collinearity.md)
 * [FIXME: Replace all dots](Ruby/8kyu/fixme_replace_all_dots.md)
+* [101 Dalmatians - squash the bugs, not the dogs!](Ruby/8kyu/101_dalmatians_squash_the_bugs_not_the_dogs.md)
 
 ## SQL
 
