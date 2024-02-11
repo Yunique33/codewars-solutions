@@ -31,10 +31,8 @@ end
 
 # My Solution
 ```ruby
-
-```
-
-# Better/Alternative solution from Codewars
-```ruby
-
+def weather_info (temp)
+  result = ((temp - 32) * (5/9.to_f)).round(5)
+  result.positive? ? "#{result} is above freezing temperature" : "#{result} is freezing temperature"
+end
 ```
