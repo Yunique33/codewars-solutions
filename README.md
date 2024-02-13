@@ -248,6 +248,7 @@
 * [101 Dalmatians - squash the bugs, not the dogs!](Ruby/8kyu/101_dalmatians_squash_the_bugs_not_the_dogs.md)
 * [Grasshopper - Debug](Ruby/8kyu/grasshopper_debug.md)
 * [Fix your code before the garden dies!](Ruby/8kyu/fix_your_code_before_the_garden_dies.md)
+* [Incorrect division method](Ruby/8kyu/incorrect_division_method.md)
 
 ## SQL
 
