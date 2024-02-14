@@ -249,6 +249,7 @@
 * [Grasshopper - Debug](Ruby/8kyu/grasshopper_debug.md)
 * [Fix your code before the garden dies!](Ruby/8kyu/fix_your_code_before_the_garden_dies.md)
 * [Incorrect division method](Ruby/8kyu/incorrect_division_method.md)
+* [Multiply the number](Ruby/8kyu/multiply_the_number.md)
 
 ## SQL
 
