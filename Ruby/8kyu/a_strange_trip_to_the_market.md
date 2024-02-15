@@ -34,4 +34,3 @@ def is_lock_ness_monster(string)
   string.match? /(tree fiddy)|(3\.5)|(three fifty)/
 end
 ```
-
