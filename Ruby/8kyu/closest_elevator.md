@@ -15,7 +15,7 @@ In the case where both elevators are equally distant from the called floor, choo
 You can assume that the inputs will always be valid integers between 0-2.
 
 Examples:
-```
+```javascript
 elevator(0, 1, 0); // => "left"
 elevator(0, 1, 1); // => "right"
 elevator(0, 1, 2); // => "right"

@@ -5,7 +5,7 @@ The cockroach is one of the fastest insects. Write a function which takes its sp
 per second, rounded down to the integer (= floored).
 
 For example:
->1.08 --> 30
+> 1.08 --> 30
 
 Note! The input is a Real number (actual type is language dependent) and is >= 0. The result should be an Integer.
 
@@ -15,6 +15,7 @@ def cockroach_speed(s)
   (s*250/9).floor
 end
 ```
+
 # Better/Alternative solution from Codewars
 ```ruby
 def cockroach_speed(s)

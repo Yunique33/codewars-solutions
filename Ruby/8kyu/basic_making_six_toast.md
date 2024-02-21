@@ -17,6 +17,7 @@ more or less, the number will still be positive, not negative.
 ## Examples:
 You must return the number of toast the you need to put in (or to take out). In case of `5` you can still put `1` toast 
 in:
+
 ```
 six_toast(5) == 1
 ```

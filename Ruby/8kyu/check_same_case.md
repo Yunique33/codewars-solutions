@@ -3,18 +3,16 @@
 # Description
 Write a function that will check if two given characters are the same case.
 
-* If either of the characters is not a letter, return <code>-1</code>
-* If both characters are the same case, return <code>1</code>
-* If both characters are letters, but not the same case, return <code>0</code>
+* If either of the characters is not a letter, return `-1`
+* If both characters are the same case, return `1`
+* If both characters are letters, but not the same case, return `0`
 
 ## Examples
-<code>'a'</code> and <code>'g'</code> returns <code>1</code>\
-<code>'A'</code> and <code>'C'</code> returns <code>1</code>\
-<code>'b'</code> and <code>'G'</code> returns <code>0</code>\
-<code>'B'</code> and <code>'g'</code> returns <code>0</code>\
-<code>'0'</code> and <code>'?'</code> returns <code>-1</code>
-
-
+`'a'` and `'g'` returns `1`\
+`'A'` and `'C'` returns `1`\
+`'b'` and `'G'` returns `0`\
+`'B'` and `'g'` returns `0`\
+`'0'` and `'?'` returns `-1`
 
 # My Solution
 ```ruby

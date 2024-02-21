@@ -9,13 +9,17 @@ up to _and including_ the year 200, etc.
 Given a year, return the century it is in.
 
 ## Examples
->1705 --> 18\
-1900 --> 19\
-1601 --> 17\
+```
+1705 --> 18
+1900 --> 19
+1601 --> 17
 2000 --> 20
+2742 --> 28
+```
 
 Note: this kata uses strict construction as shown in the description and the examples, you can read more about 
 it [here](https://en.wikipedia.org/wiki/Century)
+
 # My Solution
 ```ruby
 def century(year)

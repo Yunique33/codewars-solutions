@@ -12,8 +12,8 @@ class Array
 end
 ```
 
-# Example
-```
+# Examples
+```ruby
 [3, 4, 5].second  #  => 4 
 [].second         #  => nil
 ````
