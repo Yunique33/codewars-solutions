@@ -1,6 +1,6 @@
 # [Area of a Square](https://www.codewars.com/kata/5748838ce2fab90b86001b1a)
 
-# Description
+## Description
 Complete the function that calculates the area of the red square, when the length of the circular arc `A` is given as 
 the input. Return the result rounded to two decimals.
 
@@ -8,7 +8,7 @@ the input. Return the result rounded to two decimals.
 
 Note: use the π value provided in your language (`Math::PI`, `M_PI`, `math.pi`, etc)
 
-# My Solution
+## My Solution
 ```ruby
 def square_area(arc)
   ((2 * arc /  Math::PI) ** 2).round(2)

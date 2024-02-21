@@ -1,6 +1,6 @@
 # [A Strange Trip to the Market](https://www.codewars.com/kata/55ccdf1512938ce3ac000056)
 
-# Description
+## Description
 You're on your way to the market when you hear beautiful music coming from a nearby street performer. The notes come 
 together like you wouln't believe as the musician puts together patterns of tunes. As you wonder what kind of algorithm 
 you could use to shift octaves by 8 pitches or something silly like that, it dawns on you that you have been watching 
@@ -18,7 +18,7 @@ are tired of being grifted by this monster, the time has come to code a solution
 that the phrase can also be written as `"3.50"` or `"three fifty"`. Your function should return true if you're talking 
 with The Loch Ness Moster, false otherwise.
 
-# My Solution
+## My Solution
 ```ruby
 def is_lock_ness_monster(string)
   ['tree fiddy', '3.50', 'three fifty'].each do |el|
@@ -28,7 +28,7 @@ def is_lock_ness_monster(string)
 end
 ```
 
-# Better/Alternative solution from Codewars
+## Better/Alternative solution from Codewars
 ```ruby
 def is_lock_ness_monster(string)
   string.match? /(tree fiddy)|(3\.5)|(three fifty)/

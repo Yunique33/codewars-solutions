@@ -1,6 +1,6 @@
 # [Barking mad](https://www.codewars.com/kata/54dba07f03e88a4cec000caf)
 
-# Description
+## Description
 Teach snoopy and scooby doo how to bark using object methods. Currently only snoopy can bark and not scooby doo.
 
 ```ruby
@@ -26,7 +26,7 @@ end
 scoobydoo=Dog.new("Great Dane")
 ```
 
-# My Solution
+## My Solution
 ```ruby
 class Dog
   def initialize(breed)

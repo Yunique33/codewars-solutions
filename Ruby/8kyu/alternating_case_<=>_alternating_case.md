@@ -1,7 +1,7 @@
 # [altERnaTIng cAsE <=> ALTerNAtiNG CaSe](https://www.codewars.com/kata/56efc695740d30f963000557)
 
-# Description
-## altERnaTIng cAsE <=> ALTerNAtiNG CaSe
+## Description
+### altERnaTIng cAsE <=> ALTerNAtiNG CaSe
 Define `String.prototype.toAlternatingCase` (or a similar function/method _such as_ 
 `to_alternating_case`/`toAlternatingCase`/`ToAlternatingCase` in your selected language; **see the initial solution for 
 details**) such that each lowercase letter becomes uppercase and each uppercase letter becomes lowercase. For example:
@@ -18,7 +18,7 @@ details**) such that each lowercase letter becomes uppercase and each uppercase 
 
 As usual, your function/method should be pure, i.e. it should **not** mutate the original string.
 
-# My Solution
+## My Solution
 ```ruby
 class String
   def to_alternating_case
@@ -27,7 +27,7 @@ class String
 end
 ```
 
-# Better/Alternative solution from Codewars
+## Better/Alternative solution from Codewars
 ```ruby
 class String
   def to_alternating_case

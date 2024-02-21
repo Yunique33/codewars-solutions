@@ -1,6 +1,6 @@
-# [Array#secon](https://www.codewars.com/kata/536c6f2349aa8b16520002e0)
+# [Array#second](https://www.codewars.com/kata/536c6f2349aa8b16520002e0)
 
-# Description
+## Description
 Define a new instance method on the `Array` class called `second`, which returns the second item in an array (similar 
 to the way `.first` and `.last` work in Ruby).
 
@@ -12,13 +12,13 @@ class Array
 end
 ```
 
-# Examples
+### Examples
 ```ruby
 [3, 4, 5].second  #  => 4 
 [].second         #  => nil
 ````
 
-# My Solution
+## My Solution
 ```ruby
 class Array
   def second
@@ -27,7 +27,7 @@ class Array
 end
 ```
 
-# Better/Alternative solution from Codewars
+## Better/Alternative solution from Codewars
 ```ruby
 class Array
   def second

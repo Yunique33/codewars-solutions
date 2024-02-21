@@ -1,6 +1,6 @@
 # [Compare within margin](https://www.codewars.com/kata/56453a12fcee9a6c4700009c)
 
-# Description
+## Description
 Create a function `close_compare` that accepts 3 parameters: `a`, `b`, and an optional `margin`. The function should 
 return whether `a` is lower than, close to, or higher than `b`.
 
@@ -24,19 +24,19 @@ Tip: Some languages have a way to make parameters optional.
 
 ---
 
-## Example 1
+### Example 1
 
 If `a = 3`, `b = 5`, and `margin = 3`, then `close_compare(a, b, margin)` should return `0`.
 
 This is because `a` and `b` are no more than 3 numbers apart.
 
-## Example 2
+### Example 2
 
 If `a = 3`, `b = 5`, and `margin = 0`, then `close_compare(a, b, margin)` should return `-1`.
 
 This is because the distance between `a` and `b` is greater than 0, and `a` is less than `b`.
 
-# My Solution
+## My Solution
 ```ruby
 def close_compare(a, b, margin = 0)
   (a - b).abs <= margin ? 0 : a <=> b

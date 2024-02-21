@@ -1,6 +1,6 @@
 # [Basic subclasses - Adam and Eve](https://www.codewars.com/kata/547274e24481cfc469000416)
 
-# Description
+## Description
 According to the creation myths of the Abrahamic religions, Adam and Eve were the first Humans to wander the Earth.
 
 You have to do God's job. The creation method must return an array of length 2 containing objects (representing Adam and
@@ -16,7 +16,7 @@ def god
 end
 ```
 
-# My Solution
+## My Solution
 ```ruby
 class Human; end
 class Man < Human; end

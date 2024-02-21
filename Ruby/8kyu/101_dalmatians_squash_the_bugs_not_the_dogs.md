@@ -1,6 +1,6 @@
 # [101 Dalmatians - squash the bugs, not the dogs!](https://www.codewars.com/kata/56f6919a6b88de18ff000b36)
 
-# Description
+## Description
 Your friend has been out shopping for puppies (what a time to be alive!)... He arrives back with multiple dogs, and you 
 simply do not know how to respond!
 
@@ -21,7 +21,7 @@ def how_many_dalmatians(n)
   end
 ```
 
-# My Solution
+## My Solution
 ```ruby
 def how_many_dalmatians(n)
   dogs = ["Hardly any", "More than a handful!", "Woah that's a lot of dogs!", "101 DALMATIONS!!!"]
@@ -39,7 +39,7 @@ def how_many_dalmatians(n)
 end
 ```
 
-# Better/Alternative solution from Codewars
+## Better/Alternative solution from Codewars
 ```ruby
 def how_many_dalmatians(n)
   case

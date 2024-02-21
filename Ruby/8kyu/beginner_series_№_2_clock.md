@@ -1,6 +1,6 @@
 # [Beginner Series #2 Clock](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a)
 
-# Description
+## Description
 Clock shows <code>h</code> hours, <code>m</code> minutes and <code>s</code> seconds after midnight.
 
 Your task is to write a function which returns the time since midnight in milliseconds.
@@ -20,9 +20,9 @@ Input constraints:
 * `0 <= m <= 59`
 * `0 <= s <= 59`
 
-# My Solution
+## My Solution
 ```ruby
 def past(h, m, s)
-  1000*(3_600*h + 60*m + s)
+  1000 * (3_600 * h + 60 * m + s)
 end
 ```

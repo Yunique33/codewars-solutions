@@ -1,7 +1,7 @@
 # [Be Concise I - The Ternary Operator](https://www.codewars.com/kata/56f3f6a82010832b02000f38)
 
-# Description
-## Be Concise I - The Ternary Operator
+## Description
+### Be Concise I - The Ternary Operator
 You are given a function `describeAge` / `describe_age` that takes a parameter `age` (which will always be a 
 **positive integer**) and does the following:
 
@@ -36,14 +36,14 @@ def describe_age(age)
 end
 ```
 
-# My Solution
+## My Solution
 ```ruby
 def describe_age(age)
   "You're a(n) #{age < 13 ? 'kid' : (13..17) === age ? 'teenager' : (18..64) === age ? 'adult' : 'elderly'}"
 end
 ```
 
-# Better/Alternative solution from Codewars
+## Better/Alternative solution from Codewars
 ```ruby
 def describe_age(age)
   "You're a(n) " + (age <= 12 ? "kid" : age <= 17 ? "teenager" : age <= 64 ? "adult" : "elderly")

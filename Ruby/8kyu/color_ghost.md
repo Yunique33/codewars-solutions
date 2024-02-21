@@ -1,7 +1,7 @@
 # [Color Ghost](https://www.codewars.com/kata/53f1015fa9fe02cbda00111a)
 
-# Description
-## Color Ghost
+## Description
+### Color Ghost
 Create a class Ghost
 
 Ghost objects are instantiated without any arguments.
@@ -13,7 +13,7 @@ ghost = Ghost.new
 ghost.color  #=> "white" or "yellow" or "purple" or "red"
 ```
 
-# My Solution
+## My Solution
 ```ruby
 class Ghost
   def color

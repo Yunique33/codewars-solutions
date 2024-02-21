@@ -1,7 +1,7 @@
 # [Alan Partridge II - Apple Turnover](https://www.codewars.com/kata/580a094553bd9ec5d800007d)
 
-# Description
-## Backstory
+## Description
+### Backstory
 <img src='https://pbs.twimg.com/media/BQRHvcFCQAABGH6.jpg'>
 
 As a treat, I'll let you read part of the script from a classic 'I'm Alan Partridge episode:
@@ -21,13 +21,13 @@ Alan is known for referring to the temperature of the apple turnover as `Hotter 
 [space.com](http://www.space.com/17137-how-hot-is-the-sun.html) the temperature of the sun's corona is 2,000,000 degrees
 Celsius, but we will ignore the science for now.
 
-## Task
+### Task
 Your job is simple, if `x` squared is more than 1000, return `It's hotter than the sun!!`, else, return `Help yourself 
 to a honeycomb Yorkie for the glovebox.`
 
-### Note: Input will either be a positive integer (or a string for untyped languages).
+#### Note: Input will either be a positive integer (or a string for untyped languages).
 
-# My Solution
+## My Solution
 ```ruby
 def apple(x)
   x.to_i**2 > 1000 ? "It's hotter than the sun!!" : "Help yourself to a honeycomb Yorkie for the glovebox."

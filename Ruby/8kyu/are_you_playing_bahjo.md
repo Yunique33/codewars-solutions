@@ -1,6 +1,6 @@
 # [Are You Playing Banjo?](https://www.codewars.com/kata/53af2b8861023f1d88000832)
 
-# Description
+## Description
 Create a function which answers the question "Are you playing banjo?".
 If your name starts with the letter "R" or lower case "r", you are playing banjo!
 
@@ -13,7 +13,7 @@ name + " does not play banjo"
 
 Names given are always valid strings.
 
-# My Solution
+## My Solution
 ```ruby
 def are_you_playing_banjo(name)
   name[0].upcase == 'R' ? "#{name} plays banjo" : "#{name} does not play banjo"

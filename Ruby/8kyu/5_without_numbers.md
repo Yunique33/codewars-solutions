@@ -7,7 +7,7 @@ Sounds easy right? Just bear in mind that you can't use any of the following cha
 
 Good luck :)
 
-# My Solution
+## My Solution
 ```ruby
 def unusual_five
   'Yunus'.length
