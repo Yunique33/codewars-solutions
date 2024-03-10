@@ -1,6 +1,6 @@
 # [Capitalization and Mutability](https://www.codewars.com/kata/595970246c9b8fa0a8000086)
 
-# Description
+## Description
 Your coworker was supposed to write a simple helper function to capitalize a string (that contains a single word) before
 they went on vacation.
 
@@ -23,7 +23,7 @@ def capitalize_word(word)
 end
 ```
 
-# My Solution
+## My Solution
 ```ruby
 def capitalize_word(word)
   word.capitalize
