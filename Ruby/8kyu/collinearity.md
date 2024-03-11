@@ -27,7 +27,7 @@ all coordinates are integers
 * Be careful when handling cases where x1, x2, y1, or y2 are zero to avoid division by zero errors.
 * A vector with coordinates (0, 0) is collinear to all vectors.
 
-## Examples
+### Examples
 ```
 (1,1,1,1) ➞ true
 (1,2,2,4) ➞ true
@@ -42,7 +42,7 @@ all coordinates are integers
 (5,7,0,0) ➞ true
 ```
 
-# My Solution
+## My Solution
 ```ruby
 def collinearity(x1, y1, x2, y2)
   x1 * y2 == x2 * y1

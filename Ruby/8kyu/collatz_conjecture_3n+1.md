@@ -1,7 +1,6 @@
 # [Collatz Conjecture (3n+1)](https://www.codewars.com/kata/577a6e90d48e51c55e000217)
 
 # Description
-## Color Ghost
 The Collatz conjecture (also known as 3n+1 conjecture) is a conjecture that applying the following algorithm to any 
 number we will always eventually reach one:
 
@@ -30,11 +29,12 @@ hotpo(6) returns 8
 hotpo(23) returns 15
 23 -> 70 -> 35 -> 106 -> 53 -> 160 -> 80 -> 40 -> 20 -> 10 -> 5 -> 16 -> 8 -> 4 -> 2 -> 1
 ```
+
 #References
 
 * Collatz conjecture wikipedia page: https://en.wikipedia.org/wiki/Collatz_conjecture
 
-# My Solution
+## My Solution
 ```ruby
 def hotpo(n)
   counter = 0

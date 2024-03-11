@@ -1,6 +1,6 @@
 # [Closest elevator](https://www.codewars.com/kata/5c374b346a5d0f77af500a5a)
 
-# Description
+## Description
 Given 2 elevators (named "left" and "right") in a building with 3 floors (numbered `0` to `2`), write a function 
 `elevator` accepting 3 arguments (in order):
 
@@ -23,7 +23,7 @@ elevator(0, 0, 0); // => "right"
 elevator(0, 2, 1); // => "right"
 ```
 
-# My Solution
+## My Solution
 ```ruby
 def elevator(left, right, call)
   (left - call).abs < (right - call).abs ? 'left' : 'right'
