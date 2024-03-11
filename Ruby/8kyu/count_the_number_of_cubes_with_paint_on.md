@@ -1,6 +1,6 @@
 # [Count the number of cubes with paint on](https://www.codewars.com/kata/5763bb0af716cad8fb000580)
 
-# Description
+## Description
 Upon arriving at an interview, you are presented with a solid blue cube. The cube is then dipped in red paint, coating 
 the entire surface of the cube. The interviewer then proceeds to cut through the cube in all three dimensions a certain 
 number of times.
@@ -18,7 +18,7 @@ If we cut the cube 2 times, the function should return 26
 If we cut the cube 4 times, the function should return 98
 ```
 
-# My Solution
+## My Solution
 ```ruby
 def count_squares(cuts)
   (cuts + 1)**3 - (cuts - 1)**3

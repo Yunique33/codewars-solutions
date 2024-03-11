@@ -1,6 +1,6 @@
 # [Crash Override](https://www.codewars.com/kata/578c1e2edaa01a9a02000b7f)
 
-# Description
+## Description
 <img style="width:463px;height:200px;" src="https://media.giphy.com/media/13AN8X7jBIm15m/giphy.gif">
 
 Every budding hacker needs an alias! `The Phantom Phreak`, `Acid Burn`, `Zero Cool` and `Crash Override` are some 
@@ -8,7 +8,7 @@ notable examples from the film `Hackers`.
 
 Your task is to create a function that, given a proper first and last name, will return the correct alias.
 
-## Notes:
+### Notes:
 * Two objects that return a one word name in response to the first letter of the first name and one for the first letter
 of the surname are already given. See the examples below for further details.
 
@@ -16,10 +16,9 @@ of the surname are already given. See the examples below for further details.
 `"Your name must start with a letter from A - Z."`
 
 * Sometimes people might forget to capitalize the first letter of their name so your function should accommodate for
-
 ---
 
-## Examples
+### Examples
 ```ruby
 # These two hashes are preloaded, you need to use them in your code
 FIRST_NAME = {'A': 'Alpha', 'B': 'Beta', 'C': 'Cache', ...}
@@ -31,7 +30,7 @@ alias_gen('123abc', 'Petrovic') == 'Your name must start with a letter from A - 
 
 Happy hacking!
 
-# My Solution
+## My Solution
 ```ruby
 def alias_gen(first_name, surname)
   name_first_letter = first_name[0].upcase
@@ -43,7 +42,7 @@ def alias_gen(first_name, surname)
 end
 ```
 
-# Better/Alternative solution from Codewars
+## Better/Alternative solution from Codewars
 ```ruby
 def alias_gen first, sur
   f = FIRST_NAME[first[0].upcase]

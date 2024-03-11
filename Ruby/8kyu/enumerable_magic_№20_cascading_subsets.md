@@ -1,6 +1,6 @@
 # [Enumerable Magic #20 - Cascading Subsets](https://www.codewars.com/kata/545af3d185166a3dec001190)
 
-# Description
+## Description
 Create a method **each_cons** that accepts a list and a number **n**, and returns cascading subsets of the list of size 
 **n**, like so:
 
@@ -14,7 +14,7 @@ each_cons([1,2,3,4], 3)
 
 As you can see, the lists are cascading; ie, they overlap, but never out of order.
 
-# My Solution
+## My Solution
 ```ruby
 def each_cons(list, n)
   list.each_cons(n).to_a

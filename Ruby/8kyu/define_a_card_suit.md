@@ -1,6 +1,6 @@
 # [Define a card suit](https://www.codewars.com/kata/5a360620f28b82a711000047)
 
-# Description
+## Description
 You get any card as an argument. Your task is to return the suit of this card (in lowercase).
 
 Our deck (is preloaded):
@@ -18,7 +18,7 @@ DECK = ['2S','3S','4S','5S','6S','7S','8S','9S','10S','JS','QS','KS','AS',
 ('3H') -> return 'hearts'
 ('3S') -> return 'spades'
 ```
-# My Solution
+## My Solution
 ```ruby
 CARDS = {
   'C': 'clubs',

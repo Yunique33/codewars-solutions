@@ -1,6 +1,6 @@
 # [Days in the year](https://www.codewars.com/kata/56d6c333c9ae3fc32800070f)
 
-# Description
+## Description
 A variation of determining leap years, assuming only integers are used and years can be negative and positive.
 
 Write a function which will return the days in the year and the year entered in a string. For example:
@@ -17,7 +17,7 @@ Exception: Century years are NOT leap years UNLESS they can be evenly divided by
 
 So the years 0, -64 and 2016 will return 366 days. Whilst 1974, -10 and 666 will return 365 days.
 
-# My Solution
+## My Solution
 ```ruby
 def year_days(year)
   "#{year} has #{ Date.leap?(year)? 366 : 365 } days"
