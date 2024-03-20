@@ -1,6 +1,6 @@
 # [Evil or Odious](https://www.codewars.com/kata/56fcfad9c7e1fa2472000034)
 
-# Description
+## Description
 The number n is **Evil** if it has an even number of 1's in its binary representation.
 The first few Evil numbers: 3, 5, 6, 9, 10, 12, 15, 17, 18, 20
 
@@ -12,7 +12,7 @@ of evil number and "It's Odious!" in case of odious number.
 
 good luck :)
 
-# My Solution
+## My Solution
 ```ruby
 def evil(n)
   n.to_s(2).count('1').even? ? "It's Evil!" : "It's Odious!"
