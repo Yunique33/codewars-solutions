@@ -27,21 +27,26 @@ So _**the maximum value**_ that you can obtain is **_9_**.
 `(1 + 3) * 2 = 8`.
 
 ### Input >> Output Examples:
-> expressionsMatter(1,2,3)  ==>  return 9
+```
+expressionsMatter(1,2,3)  ==>  return 9
+```
 
 ### _Explanation:_
 _After placing signs and brackets, the **Maximum value** obtained from the expression_ `(1+2) * 3 = 9`.
 
 ---
 
-> expressionsMatter(1,1,1)  ==>  return 3
+```
+expressionsMatter(1,1,1)  ==>  return 3
+```
 
 ### _Explanation:_
 _After placing signs, the **Maximum value** obtained from the expression is_ `1 + 1 + 1 = 3`.
 
 ---
-
-> expressionsMatter(9,1,1)  ==>  return 18
+```
+expressionsMatter(9,1,1)  ==>  return 18
+```
 
 ### _Explanation:_
 _After placing signs and brackets, the **Maximum value** obtained from the expression is_ `9 * (1+1) = 18`.
@@ -75,7 +80,9 @@ So _**the maximum value**_ that you can obtain is **_9_**.
 ---
 
 ### Input >> Output Examples:
-> expressionsMatter(1,2,3)  ==>  return 9
+```
+expressionsMatter(1,2,3)  ==>  return 9
+```
 
 ### _Explanation:_
 _After placing signs and brackets, the **Maximum value** obtained from the expression is_ `(1+2) * 3 = 9`.
