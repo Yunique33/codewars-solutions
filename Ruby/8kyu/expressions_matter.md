@@ -82,8 +82,9 @@ _After placing signs and brackets, the **Maximum value** obtained from the expre
 
 ---
 
-> expressionsMatter(1,1,1)  ==>  return 3
-
+``` 
+expressionsMatter(1,1,1)  ==>  return 3
+```
 ---
 
 ### My Solution
