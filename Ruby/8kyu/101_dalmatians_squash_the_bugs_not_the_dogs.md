@@ -9,7 +9,9 @@ has.
 
 The number of dogs will always be a number and there will always be at least 1 dog.
 
-> Good luck!
+```
+Good luck!
+```
 
 ```ruby
 def how_many_dalmatians(n)
