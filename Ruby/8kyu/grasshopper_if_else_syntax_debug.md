@@ -1,7 +1,7 @@
 # [Grasshopper - If/else syntax debug](https://www.codewars.com/kata/57089707fe2d01529f00024a)
 
-# Description
-## If/else syntax debug
+## Description
+### If/else syntax debug
 While making a game, your partner, Greg, decided to create a function to check if the user is still alive called 
 `checkAlive`/`CheckAlive`/`check_alive`. Unfortunately, Greg made some errors while creating the function.
 
@@ -21,7 +21,7 @@ def check_alive(health)
 end
 ```
 
-# My Solution
+## My Solution
 ```ruby
 def check_alive(health)
   if health <= 0

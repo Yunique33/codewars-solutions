@@ -1,6 +1,6 @@
 # [Gravity Flip](https://www.codewars.com/kata/5f70c883e10f9e0001c89673)
 
-# Description
+## Description
 If you've completed this kata already and want a bigger challenge, here's the 
 [3D version](https://www.codewars.com/kata/5f849ab530b05d00145b9495/)
 
@@ -33,7 +33,7 @@ Bob switches the gravity.
 * 'L', [1, 4, 5, 3, 5 ]  ->  [5, 5, 4, 3, 1]
 ```
 
-# My Solution
+## My Solution
 ```ruby
 def flip(dir, boxes)
   dir == 'R' ? boxes.sort : boxes.sort.reverse
