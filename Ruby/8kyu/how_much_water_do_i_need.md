@@ -1,6 +1,6 @@
 # [How much water do I need?](https://www.codewars.com/kata/575fa9afee048b293e000287)
 
-# Description
+## Description
 My washing machine uses `water` amount of water to wash `load` (in JavaScript and Python) or `max_load` (in Ruby) amount
 of clothes. You are given a `clothes` amount of clothes to wash. For each single item of clothes above the load, the 
 washing machine will use 10% more water (multiplicative) to clean.
@@ -19,7 +19,7 @@ machine also cannot handle any amount of clothes less than `load` (`max_load`). 
 
 The answer should be rounded to the nearest 2 decimal places.
 
-# My Solution
+## My Solution
 ```ruby
 def how_much_water(water, max_load, clothes)
   return "Too much clothes" if clothes > max_load * 2

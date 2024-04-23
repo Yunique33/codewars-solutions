@@ -1,6 +1,6 @@
 # [Holiday VIII - Duty Free](https://www.codewars.com/kata/57e92e91b63b6cbac20001e5 )
 
-# Description
+## Description
 The purpose of this kata is to work out just how many bottles of duty free whiskey you would have to buy such that the 
 savings over the normal high street price would effectively cover the cost of your holiday.
 
@@ -15,14 +15,14 @@ holiday will cost £1000, you would have to purchase 166.66 bottles to save £10
 
 All inputs will be integers. Please return an integer. Round down.
 
-# My Solution
+## My Solution
 ```ruby
 def duty_free(price, discount, holiday_cost)
   (holiday_cost / (discount.to_f / 100 * price)).floor
 end
 ```
 
-# Better/Alternative solution from Codewars
+## Better/Alternative solution from Codewars
 ```ruby
 def duty_free(price, discount, cost)
   100 * cost / price / discount

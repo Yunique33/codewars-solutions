@@ -1,6 +1,6 @@
 # [How many stairs will Suzuki climb in 20 years?](https://www.codewars.com/kata/56fc55cd1f5a93d68a001d4e)
 
-# Description
+## Description
 Suzuki is a monk who climbs a large staircase to the monastery as part of a ritual. Some days he climbs more stairs than
 others depending on the number of students he must train in the morning. He is curious how many stairs might be climbed 
 over the next 20 years and has spent a year marking down his daily progress.
@@ -24,7 +24,7 @@ sunday = [6737, 7244, 5776, 9826, 7057, 9247, 5842, 5484, 6543, 5153, 6832, 8274
 
 Your function should return the 20 year estimate of the stairs climbed using the formula above.
 
-# My Solution
+## My Solution
 ```ruby
 def stairs_in_20(stairs)
   stairs.flatten.sum * 20

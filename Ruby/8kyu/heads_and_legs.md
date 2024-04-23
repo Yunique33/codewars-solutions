@@ -1,6 +1,6 @@
 # [Heads and Legs](https://www.codewars.com/kata/574c5075d27783851800169e)
 
-# Description
+## Description
 #Description
 
 Everybody has probably heard of the animal heads and legs problem from the earlier years at school. It goes:
@@ -37,7 +37,7 @@ You will only be given integers types - however negative values (edge cases) wil
 
 Happy coding!
 
-# My Solution
+## My Solution
 ```ruby
 def animals(heads, legs)
   chickens = legs / 2 - heads
@@ -45,5 +45,4 @@ def animals(heads, legs)
   return "No solutions" if res.find(&:negative?) || legs.odd?
   res
 end
-
 ```

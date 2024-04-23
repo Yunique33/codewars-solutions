@@ -1,6 +1,6 @@
 # [How many lightsabers do you own?](https://www.codewars.com/kata/51f9d93b4095e0a7200001b8)
 
-# Description
+## Description
 Inspired by the development team at Vooza, write the function that
 
 * accepts the name of a programmer, and
@@ -13,10 +13,12 @@ Anyone else owns 0.
 
 For example(**Input --> Output**):
 
->"anyone else" --> 0\
+```
+"anyone else" --> 0
 "Zach" --> 18
+```
 
-# My Solution
+## My Solution
 ```ruby
 def how_many_light_sabers_do_you_own(name='name')
   return 18 if name == 'Zach'

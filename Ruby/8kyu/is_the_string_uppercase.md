@@ -1,7 +1,7 @@
 # [Is the string uppercase?](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b)
 
-# Description
-## Is the string uppercase?
+## Description
+### Is the string uppercase?
 ### Task
 
 Create a method to see whether the string is ALL CAPS.
@@ -28,7 +28,7 @@ class String
 end
 ```
 
-# My Solution
+## My Solution
 ```ruby
 class String
   def is_upcase?
@@ -37,7 +37,7 @@ class String
 end
 ```
 
-# Better/Alternative solution from Codewars
+## Better/Alternative solution from Codewars
 ```ruby
 class String
   def is_upcase?
