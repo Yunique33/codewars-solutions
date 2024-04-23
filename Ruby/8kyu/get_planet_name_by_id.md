@@ -1,13 +1,15 @@
 # [Get Planet Name By ID](https://www.codewars.com/kata/515e188a311df01cba000003)
 
-# Description
+## Description
 The function is not returning the correct values. Can you figure out why?
 
 Example **(Input --> Output )**:
 
->3 --> "Earth"
+```
+3 --> "Earth"
+```
 
-# My Solution
+## My Solution
 ```ruby
 def get_planet_name(id)
   case id
@@ -22,7 +24,8 @@ def get_planet_name(id)
   end
 end
 ```
-# Better/Alternative solution from Codewars
+
+## Better/Alternative solution from Codewars
 ```ruby
 def get_planet_name(id)
   %w[0 Mercury Venus Earth Mars Jupiter Saturn Uranus Neptune][id]
