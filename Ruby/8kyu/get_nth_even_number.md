@@ -1,6 +1,6 @@
 # [Get Nth Even Number](https://www.codewars.com/kata/5933a1f8552bc2750a0000ed)
 
-# Description
+## Description
 
 Return the Nth Even Number
 
@@ -15,8 +15,7 @@ Example(**Input** --> **Output**)
 
 The input will not be 0.
 
-# My Solution
-
+## My Solution
 ```ruby
 def nth_even(n)
   n * 2 - 2
