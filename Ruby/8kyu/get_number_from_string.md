@@ -6,7 +6,9 @@ E.g: "hell5o wor6ld" -> 56
 
 Function:
 
-> get_number_from_string(s)
+```
+get_number_from_string(s)
+```
 
 ## My Solution
 ```ruby
