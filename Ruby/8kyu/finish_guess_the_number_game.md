@@ -1,6 +1,6 @@
 # [Finish Guess the Number Game](https://www.codewars.com/kata/568018a64f35f0c613000054)
 
-# Description
+## Description
 Imagine you are creating a game where the user has to guess the correct number. But there is a limit of how many guesses
 the user can do.
 
@@ -10,7 +10,7 @@ the user can do.
 
 Can you finish the game so all the rules are met?
 
-# My Solution
+## My Solution
 ```ruby
 class Guesser
   def initialize(number, lives)

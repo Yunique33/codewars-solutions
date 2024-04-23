@@ -1,14 +1,14 @@
 # [FIXME: Replace all dots](https://www.codewars.com/kata/596c6eb85b0f515834000049)
 
-# Description
+## Description
 The code provided is supposed replace all the dots `.` in the specified String `str` with dashes `-`
 
 But it's not working properly.
 
-## Task
+### Task
 Fix the bug so we can all go home early.
 
-## Notes
+### Notes
 String `str` will never be null.
 
 ```ruby
@@ -17,14 +17,14 @@ def replaceDots(str)
 end
 ```
 
-# My Solution
+## My Solution
 ```ruby
 def replaceDots(str)
   str.gsub('.', '-')
 end
 ```
 
-# Better/Alternative solution from Codewars
+## Better/Alternative solution from Codewars
 ```ruby
 def replaceDots(str)
   str.tr('.', '-')

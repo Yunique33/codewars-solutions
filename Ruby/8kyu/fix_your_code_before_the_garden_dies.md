@@ -1,6 +1,6 @@
 # [Fix your code before the garden dies!](https://www.codewars.com/kata/57158fb92ad763bb180004e7)
 
-# Description
+## Description
 You have an award-winning garden and every day the plants need exactly 40mm of water. You created a great piece of 
 JavaScript to calculate the amount of water your plants will need when you have taken into consideration the amount of 
 rain water that is forecast for the day. Your jealous neighbour hacked your computer and filled your code with bugs.
@@ -18,7 +18,7 @@ def rain_amount(mm) do
 end
 ```
 
-# My Solution
+## My Solution
 ```ruby
 def rain_amount(mm)
   if mm < 40

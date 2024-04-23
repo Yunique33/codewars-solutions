@@ -1,8 +1,8 @@
 # [Fix the Bugs (Syntax) - My First Kata](https://www.codewars.com/kata/56aed32a154d33a1f3000018)
 
-# Description
-## Fix the Bugs (Syntax) - My First Kata
-### Overview
+## Description
+### Fix the Bugs (Syntax) - My First Kata
+#### Overview
 Hello, this is my first Kata so forgive me if it is of poor quality.
 
 In this Kata you should fix/create a program that `returns` the following values:
@@ -14,7 +14,7 @@ You may assume the following:
 
 1. If `a` and `b` are both numbers, neither of `a` or `b` will be `0`.
 
-### Language-Specific Instructions
+#### Language-Specific Instructions
 
 #### Javascript and PHP
 
@@ -34,7 +34,7 @@ def my_first_kata(a,b)
 end
 ```
 
-# My Solution
+## My Solution
 ```ruby
 def my_first_kata(a,b)
   return false if a.class != Integer || b.class != Integer  
@@ -42,7 +42,7 @@ def my_first_kata(a,b)
 end
 ```
 
-# Better/Alternative solution from Codewars
+## Better/Alternative solution from Codewars
 ```ruby
 def my_first_kata(a,b)
   a % b + b % a rescue false
